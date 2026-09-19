@@ -1,0 +1,1628 @@
+rep_id,rep_name,territory_id,region,hcp_id,product,call_date,call_outcome,prescription_volume,target_volume
+R002,Jordan Kapoor,N02,North,H-N02-026,Cardiavex,2026-03-01,Rescheduled,1.8,75.3
+R010,Omar Cole,W01,West,H-W01-023,Cardiavex,2026-03-01,Sample Drop,15.5,502.4
+R010,Omar Cole,W01,West,H-W01-019,Glucanorm,2026-03-01,Discussion Completed,9.9,502.4
+R011,Lee Park,W02,West,H-W02-014,Cardiavex,2026-03-01,Rescheduled,3.1,50.5
+R001,Alex Reed,N01,North,H-N01-019,Cardiavex,2026-03-02,No Show,2.4,81.1
+R002,Jordan Kapoor,N02,North,H-N02-026,Respiraline,2026-03-02,Rescheduled,4.0,75.3
+R003,Priya Chen,N03,North,H-N03-023,Glucanorm,2026-03-02,Rescheduled,3.0,137.2
+R003,Priya Chen,N03,North,H-N03-028,Cardiavex,2026-03-02,Sample Drop,14.7,137.2
+R003,Priya Chen,N03,North,H-N03-035,Cardiavex,2026-03-02,Sample Drop,16.1,137.2
+R004,Sam Ortiz,S01,South,H-S01-001,Glucanorm,2026-03-02,Completed,6.3,73.8
+R004,Sam Ortiz,S01,South,H-S01-029,Respiraline,2026-03-02,Discussion Completed,7.8,73.8
+R005,Morgan Novak,S02,South,H-S02-028,Respiraline,2026-03-02,No Show,1.2,104.6
+R006,Taylor Singh,S03,South,H-S03-026,Cardiavex,2026-03-02,Discussion Completed,17.8,171.4
+R007,Chris Brooks,E01,East,H-E01-020,Glucanorm,2026-03-02,Rescheduled,2.1,141.4
+R009,Nina Adeyemi,E03,East,H-E03-022,Glucanorm,2026-03-02,Rescheduled,2.1,253.3
+R010,Omar Cole,W01,West,H-W01-013,Respiraline,2026-03-02,Rescheduled,2.6,502.4
+R010,Omar Cole,W01,West,H-W01-005,Respiraline,2026-03-02,Sample Drop,9.1,502.4
+R010,Omar Cole,W01,West,H-W01-003,Glucanorm,2026-03-02,Completed,20.7,502.4
+R002,Jordan Kapoor,N02,North,H-N02-019,Respiraline,2026-03-03,Sample Drop,5.5,75.3
+R003,Priya Chen,N03,North,H-N03-030,Cardiavex,2026-03-03,Completed,9.9,137.2
+R003,Priya Chen,N03,North,H-N03-024,Respiraline,2026-03-03,Sample Drop,8.5,137.2
+R005,Morgan Novak,S02,South,H-S02-026,Cardiavex,2026-03-03,Rescheduled,2.2,104.6
+R008,Riley Fischer,E02,East,H-E02-011,Cardiavex,2026-03-03,Rescheduled,1.5,184.4
+R009,Nina Adeyemi,E03,East,H-E03-026,Glucanorm,2026-03-03,Completed,6.4,253.3
+R010,Omar Cole,W01,West,H-W01-011,Cardiavex,2026-03-03,Sample Drop,20.6,502.4
+R010,Omar Cole,W01,West,H-W01-015,Glucanorm,2026-03-03,No Show,3.9,502.4
+R010,Omar Cole,W01,West,H-W01-009,Cardiavex,2026-03-03,No Show,2.7,502.4
+R011,Lee Park,W02,West,H-W02-018,Glucanorm,2026-03-03,Rescheduled,2.0,50.5
+R001,Alex Reed,N01,North,H-N01-013,Glucanorm,2026-03-04,Rescheduled,2.4,81.1
+R002,Jordan Kapoor,N02,North,H-N02-014,Glucanorm,2026-03-04,Rescheduled,1.2,75.3
+R002,Jordan Kapoor,N02,North,H-N02-018,Glucanorm,2026-03-04,No Show,1.6,75.3
+R006,Taylor Singh,S03,South,H-S03-007,Glucanorm,2026-03-04,Discussion Completed,15.7,171.4
+R007,Chris Brooks,E01,East,H-E01-005,Respiraline,2026-03-04,Discussion Completed,13.9,141.4
+R010,Omar Cole,W01,West,H-W01-038,Glucanorm,2026-03-04,Sample Drop,16.7,502.4
+R010,Omar Cole,W01,West,H-W01-035,Glucanorm,2026-03-04,Completed,11.4,502.4
+R001,Alex Reed,N01,North,H-N01-008,Cardiavex,2026-03-05,Rescheduled,2.2,81.1
+R004,Sam Ortiz,S01,South,H-S01-014,Respiraline,2026-03-05,Completed,6.6,73.8
+R005,Morgan Novak,S02,South,H-S02-018,Glucanorm,2026-03-05,No Show,1.4,104.6
+R006,Taylor Singh,S03,South,H-S03-024,Cardiavex,2026-03-05,Completed,17.0,171.4
+R008,Riley Fischer,E02,East,H-E02-032,Respiraline,2026-03-05,Discussion Completed,5.8,184.4
+R008,Riley Fischer,E02,East,H-E02-036,Cardiavex,2026-03-05,Completed,7.4,184.4
+R009,Nina Adeyemi,E03,East,H-E03-020,Respiraline,2026-03-05,Discussion Completed,9.6,253.3
+R010,Omar Cole,W01,West,H-W01-026,Glucanorm,2026-03-05,Completed,12.3,502.4
+R011,Lee Park,W02,West,H-W02-025,Respiraline,2026-03-05,Rescheduled,0.7,50.5
+R011,Lee Park,W02,West,H-W02-014,Glucanorm,2026-03-05,No Show,2.2,50.5
+R003,Priya Chen,N03,North,H-N03-021,Cardiavex,2026-03-06,Discussion Completed,11.3,137.2
+R003,Priya Chen,N03,North,H-N03-026,Respiraline,2026-03-06,Rescheduled,1.4,137.2
+R006,Taylor Singh,S03,South,H-S03-007,Respiraline,2026-03-06,No Show,2.1,171.4
+R006,Taylor Singh,S03,South,H-S03-032,Glucanorm,2026-03-06,No Show,4.4,171.4
+R008,Riley Fischer,E02,East,H-E02-043,Glucanorm,2026-03-06,Discussion Completed,6.8,184.4
+R008,Riley Fischer,E02,East,H-E02-010,Respiraline,2026-03-06,Rescheduled,4.0,184.4
+R011,Lee Park,W02,West,H-W02-029,Cardiavex,2026-03-06,Discussion Completed,2.5,50.5
+R003,Priya Chen,N03,North,H-N03-021,Glucanorm,2026-03-07,No Show,2.6,137.2
+R004,Sam Ortiz,S01,South,H-S01-031,Respiraline,2026-03-07,No Show,2.7,73.8
+R006,Taylor Singh,S03,South,H-S03-012,Cardiavex,2026-03-07,No Show,1.4,171.4
+R006,Taylor Singh,S03,South,H-S03-019,Cardiavex,2026-03-07,Discussion Completed,15.1,171.4
+R008,Riley Fischer,E02,East,H-E02-030,Glucanorm,2026-03-07,Sample Drop,11.5,184.4
+R009,Nina Adeyemi,E03,East,H-E03-019,Glucanorm,2026-03-07,Rescheduled,2.4,253.3
+R010,Omar Cole,W01,West,H-W01-040,Glucanorm,2026-03-07,Sample Drop,17.8,502.4
+R011,Lee Park,W02,West,H-W02-012,Glucanorm,2026-03-07,Completed,6.1,50.5
+R001,Alex Reed,N01,North,H-N01-010,Cardiavex,2026-03-08,Rescheduled,1.3,81.1
+R001,Alex Reed,N01,North,H-N01-012,Cardiavex,2026-03-08,No Show,2.1,81.1
+R001,Alex Reed,N01,North,H-N01-026,Cardiavex,2026-03-08,No Show,0.9,81.1
+R004,Sam Ortiz,S01,South,H-S01-020,Respiraline,2026-03-08,No Show,2.3,73.8
+R004,Sam Ortiz,S01,South,H-S01-008,Respiraline,2026-03-08,Sample Drop,3.0,73.8
+R005,Morgan Novak,S02,South,H-S02-011,Cardiavex,2026-03-08,Sample Drop,11.2,104.6
+R005,Morgan Novak,S02,South,H-S02-035,Cardiavex,2026-03-08,Rescheduled,3.2,104.6
+R006,Taylor Singh,S03,South,H-S03-022,Glucanorm,2026-03-08,Rescheduled,3.2,171.4
+R008,Riley Fischer,E02,East,H-E02-007,Respiraline,2026-03-08,Sample Drop,4.4,184.4
+R008,Riley Fischer,E02,East,H-E02-008,Glucanorm,2026-03-08,Rescheduled,4.2,184.4
+R002,Jordan Kapoor,N02,North,H-N02-025,Cardiavex,2026-03-09,Completed,5.9,75.3
+R002,Jordan Kapoor,N02,North,H-N02-020,Respiraline,2026-03-09,Rescheduled,4.0,75.3
+R004,Sam Ortiz,S01,South,H-S01-015,Cardiavex,2026-03-09,Discussion Completed,2.6,73.8
+R005,Morgan Novak,S02,South,H-S02-023,Respiraline,2026-03-09,No Show,4.1,104.6
+R005,Morgan Novak,S02,South,H-S02-032,Glucanorm,2026-03-09,Sample Drop,3.7,104.6
+R006,Taylor Singh,S03,South,H-S03-027,Respiraline,2026-03-09,Rescheduled,1.6,171.4
+R008,Riley Fischer,E02,East,H-E02-017,Cardiavex,2026-03-09,No Show,3.4,184.4
+R010,Omar Cole,W01,West,H-W01-007,Glucanorm,2026-03-09,Discussion Completed,18.8,502.4
+R003,Priya Chen,N03,North,H-N03-005,Glucanorm,2026-03-10,Completed,14.4,137.2
+R004,Sam Ortiz,S01,South,H-S01-028,Cardiavex,2026-03-10,No Show,2.9,73.8
+R006,Taylor Singh,S03,South,H-S03-029,Glucanorm,2026-03-10,Rescheduled,1.9,171.4
+R006,Taylor Singh,S03,South,H-S03-009,Respiraline,2026-03-10,Rescheduled,4.3,171.4
+R008,Riley Fischer,E02,East,H-E02-015,Respiraline,2026-03-10,Rescheduled,3.9,184.4
+R010,Omar Cole,W01,West,H-W01-010,Cardiavex,2026-03-10,Discussion Completed,19.5,502.4
+R010,Omar Cole,W01,West,H-W01-002,Respiraline,2026-03-10,Rescheduled,3.3,502.4
+R001,Alex Reed,N01,North,H-N01-027,Cardiavex,2026-03-11,Rescheduled,1.3,81.1
+R001,Alex Reed,N01,North,H-N01-030,Cardiavex,2026-03-11,Sample Drop,6.4,81.1
+R003,Priya Chen,N03,North,H-N03-003,Glucanorm,2026-03-11,Discussion Completed,15.6,137.2
+R003,Priya Chen,N03,North,H-N03-007,Respiraline,2026-03-11,No Show,2.5,137.2
+R005,Morgan Novak,S02,South,H-S02-002,Cardiavex,2026-03-11,Rescheduled,2.7,104.6
+R005,Morgan Novak,S02,South,H-S02-019,Cardiavex,2026-03-11,No Show,1.0,104.6
+R006,Taylor Singh,S03,South,H-S03-005,Respiraline,2026-03-11,No Show,2.8,171.4
+R006,Taylor Singh,S03,South,H-S03-022,Glucanorm,2026-03-11,Discussion Completed,11.5,171.4
+R008,Riley Fischer,E02,East,H-E02-025,Cardiavex,2026-03-11,Rescheduled,1.5,184.4
+R008,Riley Fischer,E02,East,H-E02-018,Cardiavex,2026-03-11,No Show,2.3,184.4
+R010,Omar Cole,W01,West,H-W01-024,Cardiavex,2026-03-11,Completed,8.9,502.4
+R010,Omar Cole,W01,West,H-W01-041,Glucanorm,2026-03-11,No Show,5.0,502.4
+R010,Omar Cole,W01,West,H-W01-031,Glucanorm,2026-03-11,Rescheduled,2.1,502.4
+R011,Lee Park,W02,West,H-W02-015,Glucanorm,2026-03-11,Rescheduled,2.4,50.5
+R001,Alex Reed,N01,North,H-N01-003,Respiraline,2026-03-12,Rescheduled,1.4,81.1
+R001,Alex Reed,N01,North,H-N01-026,Glucanorm,2026-03-12,No Show,1.3,81.1
+R002,Jordan Kapoor,N02,North,H-N02-008,Glucanorm,2026-03-12,Rescheduled,3.2,75.3
+R002,Jordan Kapoor,N02,North,H-N02-022,Glucanorm,2026-03-12,Rescheduled,1.8,75.3
+R002,Jordan Kapoor,N02,North,H-N02-002,Respiraline,2026-03-12,Rescheduled,2.0,75.3
+R006,Taylor Singh,S03,South,H-S03-001,Glucanorm,2026-03-12,Rescheduled,3.0,171.4
+R008,Riley Fischer,E02,East,H-E02-006,Cardiavex,2026-03-12,Sample Drop,8.5,184.4
+R009,Nina Adeyemi,E03,East,H-E03-026,Glucanorm,2026-03-12,Rescheduled,2.3,253.3
+R010,Omar Cole,W01,West,H-W01-001,Cardiavex,2026-03-12,Discussion Completed,4.7,502.4
+R010,Omar Cole,W01,West,H-W01-029,Glucanorm,2026-03-12,Discussion Completed,6.0,502.4
+R010,Omar Cole,W01,West,H-W01-004,Cardiavex,2026-03-12,Discussion Completed,14.8,502.4
+R003,Priya Chen,N03,North,H-N03-019,Cardiavex,2026-03-13,Rescheduled,3.3,137.2
+R006,Taylor Singh,S03,South,H-S03-016,Glucanorm,2026-03-13,No Show,2.4,171.4
+R006,Taylor Singh,S03,South,H-S03-028,Respiraline,2026-03-13,Completed,15.4,171.4
+R007,Chris Brooks,E01,East,H-E01-017,Respiraline,2026-03-13,Rescheduled,4.0,141.4
+R008,Riley Fischer,E02,East,H-E02-024,Cardiavex,2026-03-13,No Show,4.0,184.4
+R008,Riley Fischer,E02,East,H-E02-030,Respiraline,2026-03-13,Rescheduled,4.1,184.4
+R010,Omar Cole,W01,West,H-W01-037,Glucanorm,2026-03-13,No Show,3.0,502.4
+R010,Omar Cole,W01,West,H-W01-040,Respiraline,2026-03-13,Completed,8.3,502.4
+R011,Lee Park,W02,West,H-W02-015,Cardiavex,2026-03-13,Sample Drop,6.4,50.5
+R011,Lee Park,W02,West,H-W02-018,Glucanorm,2026-03-13,Completed,8.1,50.5
+R002,Jordan Kapoor,N02,North,H-N02-008,Cardiavex,2026-03-14,No Show,2.3,75.3
+R003,Priya Chen,N03,North,H-N03-012,Respiraline,2026-03-14,Discussion Completed,12.2,137.2
+R004,Sam Ortiz,S01,South,H-S01-024,Cardiavex,2026-03-14,Rescheduled,3.3,73.8
+R005,Morgan Novak,S02,South,H-S02-031,Glucanorm,2026-03-14,No Show,1.7,104.6
+R005,Morgan Novak,S02,South,H-S02-033,Glucanorm,2026-03-14,Rescheduled,1.1,104.6
+R007,Chris Brooks,E01,East,H-E01-019,Respiraline,2026-03-14,Rescheduled,2.3,141.4
+R008,Riley Fischer,E02,East,H-E02-019,Glucanorm,2026-03-14,Completed,13.8,184.4
+R008,Riley Fischer,E02,East,H-E02-045,Glucanorm,2026-03-14,No Show,2.3,184.4
+R009,Nina Adeyemi,E03,East,H-E03-004,Glucanorm,2026-03-14,No Show,5.3,253.3
+R010,Omar Cole,W01,West,H-W01-011,Respiraline,2026-03-14,No Show,4.9,502.4
+R010,Omar Cole,W01,West,H-W01-015,Glucanorm,2026-03-14,No Show,5.2,502.4
+R010,Omar Cole,W01,West,H-W01-018,Respiraline,2026-03-14,Discussion Completed,10.3,502.4
+R010,Omar Cole,W01,West,H-W01-006,Glucanorm,2026-03-14,Sample Drop,21.3,502.4
+R011,Lee Park,W02,West,H-W02-001,Cardiavex,2026-03-14,Rescheduled,1.0,50.5
+R011,Lee Park,W02,West,H-W02-001,Cardiavex,2026-03-14,Rescheduled,1.7,50.5
+R001,Alex Reed,N01,North,H-N01-010,Respiraline,2026-03-15,Rescheduled,2.6,81.1
+R001,Alex Reed,N01,North,H-N01-007,Respiraline,2026-03-15,Rescheduled,3.0,81.1
+R002,Jordan Kapoor,N02,North,H-N02-011,Glucanorm,2026-03-15,Completed,13.4,75.3
+R003,Priya Chen,N03,North,H-N03-020,Glucanorm,2026-03-15,Sample Drop,14.0,137.2
+R003,Priya Chen,N03,North,H-N03-017,Respiraline,2026-03-15,Rescheduled,3.9,137.2
+R004,Sam Ortiz,S01,South,H-S01-008,Cardiavex,2026-03-15,No Show,2.1,73.8
+R005,Morgan Novak,S02,South,H-S02-018,Cardiavex,2026-03-15,Sample Drop,13.7,104.6
+R005,Morgan Novak,S02,South,H-S02-006,Glucanorm,2026-03-15,Discussion Completed,11.8,104.6
+R006,Taylor Singh,S03,South,H-S03-018,Respiraline,2026-03-15,Sample Drop,11.8,171.4
+R006,Taylor Singh,S03,South,H-S03-001,Cardiavex,2026-03-15,Discussion Completed,15.0,171.4
+R007,Chris Brooks,E01,East,H-E01-007,Cardiavex,2026-03-15,Rescheduled,2.1,141.4
+R009,Nina Adeyemi,E03,East,H-E03-030,Respiraline,2026-03-15,Completed,14.5,253.3
+R009,Nina Adeyemi,E03,East,H-E03-029,Cardiavex,2026-03-15,Sample Drop,17.5,253.3
+R002,Jordan Kapoor,N02,North,H-N02-022,Cardiavex,2026-03-16,No Show,2.5,75.3
+R002,Jordan Kapoor,N02,North,H-N02-018,Respiraline,2026-03-16,Discussion Completed,9.5,75.3
+R005,Morgan Novak,S02,South,H-S02-009,Glucanorm,2026-03-16,Discussion Completed,9.7,104.6
+R005,Morgan Novak,S02,South,H-S02-006,Cardiavex,2026-03-16,Discussion Completed,8.5,104.6
+R006,Taylor Singh,S03,South,H-S03-011,Cardiavex,2026-03-16,Rescheduled,5.8,171.4
+R006,Taylor Singh,S03,South,H-S03-011,Glucanorm,2026-03-16,Rescheduled,2.9,171.4
+R006,Taylor Singh,S03,South,H-S03-028,Glucanorm,2026-03-16,No Show,5.6,171.4
+R006,Taylor Singh,S03,South,H-S03-030,Respiraline,2026-03-16,No Show,2.9,171.4
+R007,Chris Brooks,E01,East,H-E01-014,Cardiavex,2026-03-16,Rescheduled,2.4,141.4
+R009,Nina Adeyemi,E03,East,H-E03-008,Cardiavex,2026-03-16,Completed,18.1,253.3
+R009,Nina Adeyemi,E03,East,H-E03-022,Respiraline,2026-03-16,Completed,18.1,253.3
+R001,Alex Reed,N01,North,H-N01-028,Respiraline,2026-03-17,No Show,1.6,81.1
+R003,Priya Chen,N03,North,H-N03-012,Cardiavex,2026-03-17,Rescheduled,2.0,137.2
+R006,Taylor Singh,S03,South,H-S03-018,Cardiavex,2026-03-17,No Show,3.7,171.4
+R006,Taylor Singh,S03,South,H-S03-029,Cardiavex,2026-03-17,No Show,2.0,171.4
+R008,Riley Fischer,E02,East,H-E02-024,Respiraline,2026-03-17,Completed,5.7,184.4
+R008,Riley Fischer,E02,East,H-E02-002,Respiraline,2026-03-17,No Show,3.8,184.4
+R009,Nina Adeyemi,E03,East,H-E03-014,Respiraline,2026-03-17,No Show,2.8,253.3
+R009,Nina Adeyemi,E03,East,H-E03-023,Respiraline,2026-03-17,Completed,10.7,253.3
+R010,Omar Cole,W01,West,H-W01-001,Respiraline,2026-03-17,Sample Drop,13.3,502.4
+R010,Omar Cole,W01,West,H-W01-031,Glucanorm,2026-03-17,Sample Drop,6.8,502.4
+R001,Alex Reed,N01,North,H-N01-020,Glucanorm,2026-03-18,Discussion Completed,10.5,81.1
+R002,Jordan Kapoor,N02,North,H-N02-023,Glucanorm,2026-03-18,Rescheduled,2.3,75.3
+R002,Jordan Kapoor,N02,North,H-N02-012,Glucanorm,2026-03-18,Discussion Completed,5.9,75.3
+R002,Jordan Kapoor,N02,North,H-N02-014,Respiraline,2026-03-18,No Show,1.5,75.3
+R004,Sam Ortiz,S01,South,H-S01-013,Glucanorm,2026-03-18,Rescheduled,2.2,73.8
+R007,Chris Brooks,E01,East,H-E01-024,Cardiavex,2026-03-18,Completed,10.9,141.4
+R007,Chris Brooks,E01,East,H-E01-014,Cardiavex,2026-03-18,Completed,14.3,141.4
+R007,Chris Brooks,E01,East,H-E01-015,Respiraline,2026-03-18,Sample Drop,8.9,141.4
+R008,Riley Fischer,E02,East,H-E02-015,Cardiavex,2026-03-18,Rescheduled,3.8,184.4
+R009,Nina Adeyemi,E03,East,H-E03-021,Cardiavex,2026-03-18,No Show,3.1,253.3
+R001,Alex Reed,N01,North,H-N01-027,Glucanorm,2026-03-19,No Show,1.3,81.1
+R003,Priya Chen,N03,North,H-N03-022,Cardiavex,2026-03-19,Rescheduled,1.8,137.2
+R003,Priya Chen,N03,North,H-N03-013,Glucanorm,2026-03-19,Discussion Completed,7.8,137.2
+R004,Sam Ortiz,S01,South,H-S01-024,Cardiavex,2026-03-19,No Show,2.4,73.8
+R005,Morgan Novak,S02,South,H-S02-027,Cardiavex,2026-03-19,Discussion Completed,10.8,104.6
+R005,Morgan Novak,S02,South,H-S02-027,Cardiavex,2026-03-19,Discussion Completed,10.8,104.6
+R007,Chris Brooks,E01,East,H-E01-008,Cardiavex,2026-03-19,Sample Drop,7.4,141.4
+R007,Chris Brooks,E01,East,H-E01-003,Respiraline,2026-03-19,Discussion Completed,4.3,141.4
+R007,Chris Brooks,E01,East,H-E01-003,Glucanorm,2026-03-19,Completed,17.5,141.4
+R007,Chris Brooks,E01,East,H-E01-011,Respiraline,2026-03-19,Rescheduled,1.1,141.4
+R008,Riley Fischer,E02,East,H-E02-032,Respiraline,2026-03-19,Rescheduled,1.6,184.4
+R009,Nina Adeyemi,E03,East,H-E03-023,Respiraline,2026-03-19,Completed,14.3,253.3
+R009,Nina Adeyemi,E03,East,H-E03-018,Cardiavex,2026-03-19,Sample Drop,7.2,253.3
+R009,Nina Adeyemi,E03,East,H-E03-029,Cardiavex,2026-03-19,Completed,17.0,253.3
+R009,Nina Adeyemi,E03,East,H-E03-010,Respiraline,2026-03-19,No Show,5.3,253.3
+R010,Omar Cole,W01,West,H-W01-017,Cardiavex,2026-03-19,Rescheduled,4.1,502.4
+R010,Omar Cole,W01,West,H-W01-038,Glucanorm,2026-03-19,Discussion Completed,17.0,502.4
+R010,Omar Cole,W01,West,H-W01-006,Respiraline,2026-03-19,Completed,16.0,502.4
+R003,Priya Chen,N03,North,H-N03-001,Cardiavex,2026-03-20,Sample Drop,14.5,137.2
+R004,Sam Ortiz,S01,South,H-S01-001,Respiraline,2026-03-20,Discussion Completed,8.7,73.8
+R006,Taylor Singh,S03,South,H-S03-008,Glucanorm,2026-03-20,Rescheduled,4.5,171.4
+R006,Taylor Singh,S03,South,H-S03-015,Respiraline,2026-03-20,Sample Drop,6.3,171.4
+R007,Chris Brooks,E01,East,H-E01-009,Glucanorm,2026-03-20,No Show,1.9,141.4
+R007,Chris Brooks,E01,East,H-E01-006,Respiraline,2026-03-20,Sample Drop,12.7,141.4
+R007,Chris Brooks,E01,East,H-E01-012,Cardiavex,2026-03-20,Rescheduled,5.1,141.4
+R008,Riley Fischer,E02,East,H-E02-023,Glucanorm,2026-03-20,Rescheduled,3.3,184.4
+R009,Nina Adeyemi,E03,East,H-E03-030,Respiraline,2026-03-20,Sample Drop,18.5,253.3
+R009,Nina Adeyemi,E03,East,H-E03-013,Glucanorm,2026-03-20,No Show,1.4,253.3
+R009,Nina Adeyemi,E03,East,H-E03-018,Glucanorm,2026-03-20,Sample Drop,6.0,253.3
+R010,Omar Cole,W01,West,H-W01-016,Glucanorm,2026-03-20,Sample Drop,19.3,502.4
+R011,Lee Park,W02,West,H-W02-007,Glucanorm,2026-03-20,Rescheduled,3.3,50.5
+R001,Alex Reed,UNK,North,H-N01-018,Cardiavex,2026-03-21,Discussion Completed,7.2,81.1
+R001,Alex Reed,N01,North,H-N01-021,Glucanorm,2026-03-21,Rescheduled,1.1,81.1
+R001,Alex Reed,N01,North,H-N01-008,Respiraline,2026-03-21,Discussion Completed,7.8,81.1
+R003,Priya Chen,N03,North,H-N03-033,Cardiavex,2026-03-21,No Show,1.5,137.2
+R005,Morgan Novak,S02,South,H-S02-020,Respiraline,2026-03-21,Sample Drop,6.1,104.6
+R006,Taylor Singh,S03,South,H-S03-026,Glucanorm,2026-03-21,Completed,14.5,171.4
+R006,Taylor Singh,UNK,South,H-S03-025,Cardiavex,2026-03-21,Completed,8.1,171.4
+R006,Taylor Singh,S03,South,H-S03-024,Respiraline,2026-03-21,Rescheduled,2.6,171.4
+R007,Chris Brooks,E01,East,H-E01-019,Glucanorm,2026-03-21,Rescheduled,4.9,141.4
+R008,Riley Fischer,E02,East,H-E02-021,Glucanorm,2026-03-21,No Show,1.4,184.4
+R009,Nina Adeyemi,E03,East,H-E03-005,Cardiavex,2026-03-21,Sample Drop,9.0,253.3
+R004,Sam Ortiz,S01,South,H-S01-015,Cardiavex,2026-03-22,Rescheduled,1.3,73.8
+R004,Sam Ortiz,S01,South,H-S01-022,Glucanorm,2026-03-22,Rescheduled,1.5,73.8
+R004,Sam Ortiz,S01,South,H-S01-018,Respiraline,2026-03-22,Rescheduled,1.6,73.8
+R005,Morgan Novak,S02,South,H-S02-023,Cardiavex,2026-03-22,No Show,4.0,104.6
+R005,Morgan Novak,S02,South,H-S02-030,Cardiavex,2026-03-22,Rescheduled,3.5,104.6
+R006,Taylor Singh,S03,South,H-S03-004,Glucanorm,2026-03-22,Discussion Completed,13.4,171.4
+R006,Taylor Singh,S03,South,H-S03-008,Glucanorm,2026-03-22,No Show,3.9,171.4
+R007,Chris Brooks,E01,East,H-E01-007,Respiraline,2026-03-22,Completed,13.9,141.4
+R009,Nina Adeyemi,E03,East,H-E03-011,Cardiavex,2026-03-22,Completed,5.6,253.3
+R010,Omar Cole,W01,West,H-W01-030,Respiraline,2026-03-22,No Show,5.1,502.4
+R011,Lee Park,W02,West,H-W02-023,Respiraline,2026-03-22,Rescheduled,2.1,50.5
+R002,Jordan Kapoor,N02,North,H-N02-027,Respiraline,2026-03-23,Rescheduled,2.5,75.3
+R005,Morgan Novak,S02,South,H-S02-007,Glucanorm,2026-03-23,No Show,2.3,104.6
+R007,Chris Brooks,E01,East,H-E01-028,Glucanorm,2026-03-23,No Show,2.7,141.4
+R008,Riley Fischer,E02,East,H-E02-012,Cardiavex,2026-03-23,Rescheduled,3.7,184.4
+R008,Riley Fischer,E02,East,H-E02-010,Cardiavex,2026-03-23,Rescheduled,2.4,184.4
+R008,Riley Fischer,E02,East,H-E02-016,Glucanorm,2026-03-23,Rescheduled,2.2,184.4
+R009,Nina Adeyemi,E03,East,H-E03-008,Glucanorm,2026-03-23,Rescheduled,3.1,253.3
+R010,Omar Cole,W01,West,H-W01-018,Respiraline,2026-03-23,Completed,15.9,502.4
+R010,Omar Cole,W01,West,H-W01-025,Glucanorm,2026-03-23,Discussion Completed,5.8,502.4
+R011,Lee Park,W02,West,H-W02-029,Cardiavex,2026-03-23,Rescheduled,1.2,50.5
+R001,Alex Reed,N01,North,H-N01-030,Glucanorm,2026-03-24,Discussion Completed,9.3,81.1
+R001,Alex Reed,N01,North,H-N01-002,Cardiavex,2026-03-24,Discussion Completed,6.9,81.1
+R002,Jordan Kapoor,N02,North,H-N02-004,Respiraline,2026-03-24,Rescheduled,1.8,75.3
+R002,Jordan Kapoor,N02,North,H-N02-027,Respiraline,2026-03-24,Rescheduled,3.4,75.3
+R005,Morgan Novak,S02,South,H-S02-010,Cardiavex,2026-03-24,No Show,1.9,104.6
+R007,Chris Brooks,E01,East,H-E01-021,Glucanorm,2026-03-24,Rescheduled,5.4,141.4
+R008,Riley Fischer,E02,East,H-E02-033,Cardiavex,2026-03-24,Sample Drop,11.0,184.4
+R008,Riley Fischer,E02,East,H-E02-001,Respiraline,2026-03-24,Rescheduled,2.6,184.4
+R009,Nina Adeyemi,E03,East,H-E03-013,Cardiavex,2026-03-24,Discussion Completed,6.3,253.3
+R009,Nina Adeyemi,E03,East,H-E03-001,Cardiavex,2026-03-24,No Show,2.7,253.3
+R010,Omar Cole,W01,West,H-W01-016,Respiraline,2026-03-24,Discussion Completed,8.7,502.4
+R010,Omar Cole,W01,West,H-W01-033,Glucanorm,2026-03-24,Rescheduled,2.3,502.4
+R002,Jordan Kapoor,N02,North,H-N02-010,Respiraline,2026-03-25,Rescheduled,3.1,75.3
+R002,Jordan Kapoor,N02,North,H-N02-009,Cardiavex,2026-03-25,Rescheduled,2.8,75.3
+R003,Priya Chen,N03,North,H-N03-026,Glucanorm,2026-03-25,Rescheduled,4.4,137.2
+R004,Sam Ortiz,S01,South,H-S01-002,Cardiavex,2026-03-25,No Show,1.1,73.8
+R004,Sam Ortiz,S01,South,H-S01-035,Glucanorm,2026-03-25,Rescheduled,1.3,73.8
+R006,Taylor Singh,S03,South,H-S03-010,Respiraline,2026-03-25,No Show,1.2,171.4
+R007,Chris Brooks,E01,East,H-E01-012,Glucanorm,2026-03-25,Rescheduled,3.5,141.4
+R007,Chris Brooks,E01,East,H-E01-031,Respiraline,2026-03-25,No Show,1.6,141.4
+R007,Chris Brooks,E01,East,H-E01-029,Respiraline,2026-03-25,Discussion Completed,10.9,141.4
+R008,Riley Fischer,E02,East,H-E02-040,Cardiavex,2026-03-25,Discussion Completed,6.4,184.4
+R008,Riley Fischer,E02,East,H-E02-039,Glucanorm,2026-03-25,Completed,12.6,184.4
+R009,Nina Adeyemi,E03,East,H-E03-003,Cardiavex,2026-03-25,Completed,6.1,253.3
+R009,Nina Adeyemi,E03,East,H-E03-014,Respiraline,2026-03-25,No Show,2.2,253.3
+R009,Nina Adeyemi,E03,East,H-E03-004,Cardiavex,2026-03-25,Completed,7.5,253.3
+R010,Omar Cole,W01,West,H-W01-039,Glucanorm,2026-03-25,No Show,4.0,502.4
+R010,Omar Cole,W01,West,H-W01-027,Cardiavex,2026-03-25,Completed,20.8,502.4
+R010,Omar Cole,W01,West,H-W01-021,Cardiavex,2026-03-25,No Show,5.9,502.4
+R001,Alex Reed,N01,North,H-N01-019,Respiraline,2026-03-26,Rescheduled,0.9,81.1
+R007,Chris Brooks,E01,East,H-E01-004,Glucanorm,2026-03-26,Rescheduled,3.8,141.4
+R008,Riley Fischer,E02,East,H-E02-042,Glucanorm,2026-03-26,Completed,8.0,184.4
+R009,Nina Adeyemi,E03,East,H-E03-007,Cardiavex,2026-03-26,Sample Drop,12.4,253.3
+R009,Nina Adeyemi,E03,East,H-E03-024,Respiraline,2026-03-26,Rescheduled,5.3,253.3
+R010,Omar Cole,W01,West,H-W01-008,Glucanorm,2026-03-26,No Show,3.9,502.4
+R010,Omar Cole,W01,West,H-W01-034,Glucanorm,2026-03-26,Rescheduled,5.6,502.4
+R010,Omar Cole,W01,West,H-W01-014,Cardiavex,2026-03-26,Rescheduled,3.5,502.4
+R010,Omar Cole,W01,West,H-W01-032,Glucanorm,2026-03-26,No Show,3.9,502.4
+R011,Lee Park,W02,West,H-W02-025,Glucanorm,2026-03-26,Rescheduled,1.6,50.5
+R003,Priya Chen,N03,North,H-N03-019,Glucanorm,2026-03-27,Rescheduled,1.4,137.2
+R005,Morgan Novak,S02,South,H-S02-012,Cardiavex,2026-03-27,Rescheduled,3.9,104.6
+R007,Chris Brooks,E01,East,H-E01-009,Respiraline,2026-03-27,Completed,16.0,141.4
+R010,Omar Cole,W01,West,H-W01-017,Cardiavex,2026-03-27,Rescheduled,2.6,502.4
+R010,Omar Cole,W01,West,H-W01-036,Respiraline,2026-03-27,Completed,9.1,502.4
+R005,Morgan Novak,S02,South,H-S02-021,Glucanorm,2026-04-01,No Show,1.3,57.0
+R006,Taylor Singh,S03,South,H-S03-004,Respiraline,2026-04-01,No Show,2.1,132.9
+R007,Chris Brooks,E01,East,H-E01-022,Respiraline,2026-04-01,Discussion Completed,8.0,179.6
+R007,Chris Brooks,E01,East,H-E01-017,Cardiavex,2026-04-01,Sample Drop,9.5,179.6
+R007,Chris Brooks,E01,East,H-E01-001,Respiraline,2026-04-01,Rescheduled,5.4,179.6
+R009,Nina Adeyemi,E03,East,H-E03-016,Glucanorm,2026-04-01,Rescheduled,5.6,141.8
+R011,Lee Park,W02,West,H-W02-009,Respiraline,2026-04-01,Discussion Completed,8.8,57.8
+R012,Dana Hughes,W03,West,H-W03-006,Respiraline,2026-04-01,Rescheduled,2.1,2.2
+R003,Priya Chen,N03,North,H-N03-018,Respiraline,2026-04-02,Sample Drop,4.8,174.6
+R003,Priya Chen,N03,North,H-N03-004,Glucanorm,2026-04-02,Sample Drop,11.2,174.6
+R003,Priya Chen,N03,North,H-N03-003,Respiraline,2026-04-02,Rescheduled,1.7,174.6
+R005,Morgan Novak,S02,South,H-S02-012,Glucanorm,2026-04-02,No Show,2.5,57.0
+R008,Riley Fischer,E02,East,H-E02-011,Respiraline,2026-04-02,Rescheduled,1.8,130.9
+R009,Nina Adeyemi,E03,East,H-E03-014,Glucanorm,2026-04-02,Discussion Completed,17.6,141.8
+R001,Alex Reed,N01,North,H-N01-005,Glucanorm,2026-04-03,No Show,0.9,46.3
+R001,Alex Reed,N01,North,H-N01-006,Respiraline,2026-04-03,Rescheduled,0.9,46.3
+R002,Jordan Kapoor,N02,North,H-N02-022,Glucanorm,2026-04-03,Rescheduled,3.5,85.8
+R002,Jordan Kapoor,N02,North,H-N02-010,Respiraline,2026-04-03,Discussion Completed,9.4,85.8
+R002,Jordan Kapoor,N02,North,H-N02-023,Glucanorm,2026-04-03,Rescheduled,2.0,85.8
+R003,Priya Chen,N03,North,H-N03-030,Respiraline,2026-04-03,Sample Drop,15.1,174.6
+R003,Priya Chen,N03,North,H-N03-028,Glucanorm,2026-04-03,Rescheduled,3.3,174.6
+R005,Morgan Novak,S02,South,H-S02-007,Cardiavex,2026-04-03,Rescheduled,4.0,57.0
+R006,Taylor Singh,S03,South,H-S03-013,Glucanorm,2026-04-03,No Show,5.8,132.9
+R007,Chris Brooks,E01,East,H-E01-008,Respiraline,2026-04-03,Rescheduled,4.8,179.6
+R007,Chris Brooks,E01,East,H-E01-002,Cardiavex,2026-04-03,Rescheduled,3.3,179.6
+R008,Riley Fischer,E02,East,H-E02-011,Cardiavex,2026-04-03,Sample Drop,4.6,130.9
+R008,Riley Fischer,E02,East,H-E02-042,Glucanorm,2026-04-03,Rescheduled,2.1,130.9
+R008,Riley Fischer,E02,East,H-E02-045,Respiraline,2026-04-03,Rescheduled,1.1,130.9
+R010,Omar Cole,W01,West,H-W01-028,Respiraline,2026-04-03,Sample Drop,6.2,363.5
+R010,Omar Cole,W01,West,H-W01-016,Glucanorm,2026-04-03,Rescheduled,4.7,363.5
+R003,Priya Chen,N03,North,H-N03-031,Respiraline,2026-04-04,Rescheduled,4.7,174.6
+R006,Taylor Singh,S03,South,H-S03-030,Glucanorm,2026-04-04,Rescheduled,4.2,132.9
+R007,Chris Brooks,E01,East,H-E01-018,Respiraline,2026-04-04,No Show,5.4,179.6
+R008,Riley Fischer,E02,East,H-E02-029,Glucanorm,2026-04-04,Rescheduled,2.0,130.9
+R008,Riley Fischer,E02,East,H-E02-041,Cardiavex,2026-04-04,Rescheduled,3.5,130.9
+R009,Nina Adeyemi,E03,East,H-E03-014,Respiraline,2026-04-04,Sample Drop,4.5,141.8
+R010,Omar Cole,W01,West,H-W01-018,Glucanorm,2026-04-04,Completed,7.8,363.5
+R010,Omar Cole,W01,West,H-W01-019,Cardiavex,2026-04-04,No Show,1.5,363.5
+R003,Priya Chen,N03,North,H-N03-017,Cardiavex,2026-04-05,No Show,3.9,174.6
+R004,Sam Ortiz,S01,South,H-S01-025,Cardiavex,2026-04-05,No Show,0.9,58.5
+R004,Sam Ortiz,S01,South,H-S01-025,Glucanorm,2026-04-05,Discussion Completed,5.6,58.5
+R005,Morgan Novak,S02,South,H-S02-007,Glucanorm,2026-04-05,Rescheduled,2.8,57.0
+R006,Taylor Singh,S03,South,H-S03-013,Respiraline,2026-04-05,Discussion Completed,9.0,132.9
+R006,Taylor Singh,S03,South,H-S03-010,Glucanorm,2026-04-05,Sample Drop,16.2,132.9
+R006,Taylor Singh,S03,South,H-S03-014,Respiraline,2026-04-05,Completed,12.2,132.9
+R008,Riley Fischer,E02,East,H-E02-006,Cardiavex,2026-04-05,No Show,2.9,130.9
+R009,Nina Adeyemi,E03,East,H-E03-013,Cardiavex,2026-04-05,No Show,3.7,141.8
+R010,Omar Cole,W01,West,H-W01-021,Respiraline,2026-04-05,Completed,9.6,363.5
+R010,Omar Cole,W01,West,H-W01-006,Glucanorm,2026-04-05,Sample Drop,17.8,363.5
+R011,Lee Park,W02,West,H-W02-020,Glucanorm,2026-04-05,Rescheduled,2.3,57.8
+R002,Jordan Kapoor,N02,North,H-N02-009,Glucanorm,2026-04-06,Discussion Completed,6.0,85.8
+R003,Priya Chen,N03,North,H-N03-021,Respiraline,2026-04-06,Discussion Completed,15.4,174.6
+R004,Sam Ortiz,S01,South,H-S01-024,Glucanorm,2026-04-06,Rescheduled,1.1,58.5
+R006,Taylor Singh,S03,South,H-S03-016,Glucanorm,2026-04-06,Rescheduled,2.8,132.9
+R001,Alex Reed,N01,North,H-N01-022,Glucanorm,2026-04-07,Discussion Completed,5.5,46.3
+R002,Jordan Kapoor,N02,North,H-N02-019,Cardiavex,2026-04-07,Completed,5.5,85.8
+R004,Sam Ortiz,S01,South,H-S01-022,Cardiavex,2026-04-07,Rescheduled,2.2,58.5
+R004,Sam Ortiz,S01,South,H-S01-030,Glucanorm,2026-04-07,Rescheduled,2.2,58.5
+R007,Chris Brooks,E01,East,H-E01-021,Respiraline,2026-04-07,Completed,9.1,179.6
+R008,Riley Fischer,E02,East,H-E02-021,Cardiavex,2026-04-07,Completed,10.1,130.9
+R008,Riley Fischer,E02,East,H-E02-024,Respiraline,2026-04-07,Rescheduled,1.0,130.9
+R008,Riley Fischer,E02,East,H-E02-041,Glucanorm,2026-04-07,Completed,9.8,130.9
+R009,Nina Adeyemi,E03,East,H-E03-002,Cardiavex,2026-04-07,Rescheduled,4.0,141.8
+R010,Omar Cole,W01,West,H-W01-029,Glucanorm,2026-04-07,Sample Drop,16.2,363.5
+R010,Omar Cole,W01,West,H-W01-038,Glucanorm,2026-04-07,Sample Drop,9.4,363.5
+R011,Lee Park,W02,West,H-W02-022,Glucanorm,2026-04-07,No Show,3.3,57.8
+R001,Alex Reed,N01,North,H-N01-031,Cardiavex,2026-04-08,Sample Drop,7.6,46.3
+R001,Alex Reed,N01,North,H-N01-005,Respiraline,2026-04-08,Discussion Completed,2.8,46.3
+R003,Priya Chen,N03,North,H-N03-036,Cardiavex,2026-04-08,Sample Drop,9.0,174.6
+R005,Morgan Novak,S02,South,H-S02-033,Glucanorm,2026-04-08,Completed,4.0,57.0
+R007,Chris Brooks,E01,East,H-E01-013,Cardiavex,2026-04-08,Rescheduled,4.7,179.6
+R010,Omar Cole,W01,West,H-W01-009,Glucanorm,2026-04-08,Sample Drop,7.5,363.5
+R010,Omar Cole,W01,West,H-W01-029,Glucanorm,2026-04-08,No Show,1.8,363.5
+R011,Lee Park,W02,West,H-W02-020,Respiraline,2026-04-08,Rescheduled,3.0,57.8
+R011,Lee Park,W02,West,H-W02-017,Cardiavex,2026-04-08,No Show,1.4,57.8
+R002,Jordan Kapoor,N02,North,H-N02-008,Glucanorm,2026-04-09,Discussion Completed,9.9,85.8
+R007,Chris Brooks,E01,East,H-E01-024,Glucanorm,2026-04-09,Rescheduled,4.1,179.6
+R008,Riley Fischer,E02,East,H-E02-006,Glucanorm,2026-04-09,Sample Drop,8.9,130.9
+R008,Riley Fischer,E02,East,H-E02-034,Respiraline,2026-04-09,Rescheduled,2.0,130.9
+R002,Jordan Kapoor,N02,North,H-N02-021,Respiraline,2026-04-10,Sample Drop,6.0,85.8
+R002,Jordan Kapoor,N02,North,H-N02-024,Respiraline,2026-04-10,Rescheduled,3.9,85.8
+R003,Priya Chen,N03,North,H-N03-012,Glucanorm,2026-04-10,Completed,17.4,174.6
+R003,Priya Chen,N03,North,H-N03-029,Glucanorm,2026-04-10,Completed,10.1,174.6
+R005,Morgan Novak,S02,South,H-S02-001,Respiraline,2026-04-10,Discussion Completed,4.8,57.0
+R007,Chris Brooks,E01,East,H-E01-002,Respiraline,2026-04-10,Discussion Completed,16.0,179.6
+R009,Nina Adeyemi,E03,East,H-E03-024,Cardiavex,2026-04-10,Completed,11.3,141.8
+R009,Nina Adeyemi,E03,East,H-E03-024,Respiraline,2026-04-10,Sample Drop,15.4,141.8
+R011,Lee Park,W02,West,H-W02-023,Cardiavex,2026-04-10,Rescheduled,2.5,57.8
+R001,Alex Reed,N01,North,H-N01-030,Cardiavex,2026-04-11,No Show,1.4,46.3
+R003,Priya Chen,N03,North,H-N03-005,Glucanorm,2026-04-11,Discussion Completed,7.7,174.6
+R006,Taylor Singh,S03,South,H-S03-029,Cardiavex,2026-04-11,Rescheduled,3.4,132.9
+R010,Omar Cole,W01,West,H-W01-028,Respiraline,2026-04-11,Discussion Completed,6.7,363.5
+R003,Priya Chen,N03,North,H-N03-023,Glucanorm,2026-04-12,Sample Drop,9.6,174.6
+R007,Chris Brooks,E01,East,H-E01-015,Cardiavex,2026-04-12,Sample Drop,12.8,179.6
+R007,Chris Brooks,E01,East,H-E01-011,Cardiavex,2026-04-12,Rescheduled,4.3,179.6
+R007,Chris Brooks,E01,East,H-E01-020,Glucanorm,2026-04-12,Rescheduled,5.2,179.6
+R011,Lee Park,W02,West,H-W02-010,Respiraline,2026-04-12,Rescheduled,2.8,57.8
+R011,Lee Park,W02,West,H-W02-015,Respiraline,2026-04-12,Completed,9.0,57.8
+R004,Sam Ortiz,S01,South,H-S01-020,Respiraline,2026-04-13,Rescheduled,1.7,58.5
+R006,Taylor Singh,S03,South,H-S03-020,Glucanorm,2026-04-13,Sample Drop,15.4,132.9
+R007,Chris Brooks,E01,East,H-E01-024,Respiraline,2026-04-13,Rescheduled,1.2,179.6
+R007,Chris Brooks,E01,East,H-E01-023,Glucanorm,2026-04-13,Rescheduled,1.9,179.6
+R008,Riley Fischer,E02,East,H-E02-038,Cardiavex,2026-04-13,Rescheduled,3.4,130.9
+R002,Jordan Kapoor,N02,North,H-N02-010,Respiraline,2026-04-14,Rescheduled,1.7,85.8
+R003,Priya Chen,N03,North,H-N03-008,Glucanorm,2026-04-14,Discussion Completed,7.0,174.6
+R004,Sam Ortiz,S01,South,H-S01-014,Respiraline,2026-04-14,Completed,3.6,58.5
+R004,Sam Ortiz,S01,South,H-S01-023,Cardiavex,2026-04-14,No Show,1.0,58.5
+R005,Morgan Novak,S02,South,H-S02-010,Cardiavex,2026-04-14,Completed,5.8,57.0
+R006,Taylor Singh,S03,South,H-S03-011,Cardiavex,2026-04-14,No Show,3.7,132.9
+R007,Chris Brooks,E01,East,H-E01-028,Cardiavex,2026-04-14,Sample Drop,9.3,179.6
+R008,Riley Fischer,E02,East,H-E02-017,Respiraline,2026-04-14,Rescheduled,2.9,130.9
+R008,Riley Fischer,E02,East,H-E02-020,Respiraline,2026-04-14,Sample Drop,11.9,130.9
+R010,Omar Cole,W01,West,H-W01-025,Glucanorm,2026-04-14,Discussion Completed,22.1,363.5
+R001,Alex Reed,N01,North,H-N01-006,Glucanorm,2026-04-15,Completed,6.5,46.3
+R002,Jordan Kapoor,N02,North,H-N02-016,Glucanorm,2026-04-15,Discussion Completed,6.2,85.8
+R002,Jordan Kapoor,N02,North,H-N02-024,Glucanorm,2026-04-15,Discussion Completed,10.7,85.8
+R002,Jordan Kapoor,N02,North,H-N02-024,Glucanorm,2026-04-15,Discussion Completed,10.7,85.8
+R003,Priya Chen,N03,North,H-N03-024,Respiraline,2026-04-15,Sample Drop,14.1,174.6
+R003,Priya Chen,N03,North,H-N03-024,Respiraline,2026-04-15,Rescheduled,4.5,174.6
+R009,Nina Adeyemi,E03,East,H-E03-025,Respiraline,2026-04-15,Completed,10.1,141.8
+R009,Nina Adeyemi,E03,East,H-E03-022,Cardiavex,2026-04-15,Discussion Completed,11.1,141.8
+R010,Omar Cole,W01,West,H-W01-009,Cardiavex,2026-04-15,Sample Drop,12.5,363.5
+R010,Omar Cole,W01,West,H-W01-035,Respiraline,2026-04-15,Discussion Completed,20.9,363.5
+R011,Lee Park,W02,West,H-W02-009,Respiraline,2026-04-15,Completed,2.6,57.8
+R003,Priya Chen,N03,North,H-N03-012,Cardiavex,2026-04-16,Completed,4.7,174.6
+R004,Sam Ortiz,S01,South,H-S01-004,Respiraline,2026-04-16,Discussion Completed,10.9,58.5
+R006,Taylor Singh,S03,South,H-S03-017,Respiraline,2026-04-16,Completed,7.3,132.9
+R008,Riley Fischer,E02,East,H-E02-017,Respiraline,2026-04-16,Discussion Completed,8.2,130.9
+R008,Riley Fischer,E02,East,H-E02-026,Respiraline,2026-04-16,No Show,1.6,130.9
+R010,Omar Cole,W01,West,H-W01-022,Respiraline,2026-04-16,Completed,20.8,363.5
+R002,Jordan Kapoor,N02,North,H-N02-025,Glucanorm,2026-04-17,Rescheduled,1.1,85.8
+R003,Priya Chen,N03,North,H-N03-033,Cardiavex,2026-04-17,Rescheduled,4.6,174.6
+R004,Sam Ortiz,S01,South,H-S01-001,Glucanorm,2026-04-17,No Show,0.9,58.5
+R006,Taylor Singh,S03,South,H-S03-028,Glucanorm,2026-04-17,Rescheduled,3.3,132.9
+R007,Chris Brooks,E01,East,H-E01-023,Respiraline,2026-04-17,Completed,8.1,179.6
+R007,Chris Brooks,E01,East,H-E01-026,Respiraline,2026-04-17,Completed,5.7,179.6
+R009,Nina Adeyemi,E03,East,H-E03-015,Glucanorm,2026-04-17,Rescheduled,1.4,141.8
+R010,Omar Cole,W01,West,H-W01-024,Respiraline,2026-04-17,No Show,6.2,363.5
+R010,Omar Cole,W01,West,H-W01-033,Cardiavex,2026-04-17,Discussion Completed,14.4,363.5
+R010,Omar Cole,W01,West,H-W01-015,Glucanorm,2026-04-17,Sample Drop,6.2,363.5
+R010,Omar Cole,W01,West,H-W01-007,Respiraline,2026-04-17,Discussion Completed,12.9,363.5
+R002,Jordan Kapoor,N02,North,H-N02-019,Glucanorm,2026-04-18,Completed,7.9,85.8
+R003,Priya Chen,N03,North,H-N03-013,Respiraline,2026-04-18,No Show,4.8,174.6
+R004,Sam Ortiz,S01,South,H-S01-007,Respiraline,2026-04-18,Rescheduled,1.6,58.5
+R004,Sam Ortiz,S01,South,H-S01-008,Cardiavex,2026-04-18,Rescheduled,0.7,58.5
+R005,Morgan Novak,S02,South,H-S02-005,Respiraline,2026-04-18,Rescheduled,2.8,57.0
+R008,Riley Fischer,E02,East,H-E02-021,Respiraline,2026-04-18,Discussion Completed,12.0,130.9
+R008,Riley Fischer,E02,East,H-E02-008,Respiraline,2026-04-18,Sample Drop,9.3,130.9
+R010,Omar Cole,W01,West,H-W01-032,Cardiavex,2026-04-18,Sample Drop,19.8,363.5
+R001,Alex Reed,N01,North,H-N01-028,Cardiavex,2026-04-19,Rescheduled,2.8,46.3
+R003,Priya Chen,N03,North,H-N03-020,Glucanorm,2026-04-19,Rescheduled,3.7,174.6
+R003,Priya Chen,N03,North,H-N03-015,Glucanorm,2026-04-19,Rescheduled,2.4,174.6
+R003,Priya Chen,N03,North,H-N03-036,Glucanorm,2026-04-19,No Show,4.4,174.6
+R004,Sam Ortiz,S01,South,H-S01-030,Glucanorm,2026-04-19,Rescheduled,1.5,58.5
+R005,Morgan Novak,S02,South,H-S02-006,Respiraline,2026-04-19,Rescheduled,3.1,57.0
+R006,Taylor Singh,S03,South,H-S03-005,Glucanorm,2026-04-19,No Show,1.9,132.9
+R007,Chris Brooks,E01,East,H-E01-030,Glucanorm,2026-04-19,Sample Drop,12.2,179.6
+R007,Chris Brooks,E01,East,H-E01-027,Respiraline,2026-04-19,Discussion Completed,17.7,179.6
+R007,Chris Brooks,E01,East,H-E01-003,Glucanorm,2026-04-19,No Show,1.9,179.6
+R008,Riley Fischer,E02,East,H-E02-013,Cardiavex,2026-04-19,No Show,1.4,130.9
+R008,Riley Fischer,E02,East,H-E02-026,Respiraline,2026-04-19,Rescheduled,3.0,130.9
+R010,Omar Cole,W01,West,H-W01-024,Respiraline,2026-04-19,Completed,18.3,363.5
+R010,Omar Cole,W01,West,H-W01-002,Glucanorm,2026-04-19,No Show,2.7,363.5
+R011,Lee Park,W02,West,H-W02-019,Glucanorm,2026-04-19,Completed,7.9,57.8
+R001,Alex Reed,N01,North,H-N01-025,Cardiavex,2026-04-20,Rescheduled,3.2,46.3
+R002,Jordan Kapoor,N02,North,H-N02-013,Cardiavex,2026-04-20,Rescheduled,3.5,85.8
+R002,Jordan Kapoor,N02,North,H-N02-003,Cardiavex,2026-04-20,No Show,4.0,85.8
+R003,Priya Chen,N03,North,H-N03-005,Respiraline,2026-04-20,Discussion Completed,8.5,174.6
+R005,Morgan Novak,S02,South,H-S02-009,Cardiavex,2026-04-20,Rescheduled,1.1,57.0
+R007,Chris Brooks,E01,East,H-E01-022,Respiraline,2026-04-20,Completed,11.1,179.6
+R007,Chris Brooks,E01,East,H-E01-004,Cardiavex,2026-04-20,Discussion Completed,12.9,179.6
+R011,Lee Park,W02,West,H-W02-007,Glucanorm,2026-04-20,Rescheduled,1.7,57.8
+R002,Jordan Kapoor,N02,North,H-N02-005,Cardiavex,2026-04-21,Sample Drop,3.6,85.8
+R003,Priya Chen,N03,North,H-N03-015,Glucanorm,2026-04-21,Rescheduled,1.6,174.6
+R005,Morgan Novak,S02,South,H-S02-020,Glucanorm,2026-04-21,Completed,7.0,57.0
+R005,Morgan Novak,S02,South,H-S02-021,Respiraline,2026-04-21,Rescheduled,3.8,57.0
+R005,Morgan Novak,S02,South,H-S02-012,Glucanorm,2026-04-21,Rescheduled,2.2,57.0
+R005,Morgan Novak,S02,South,H-S02-024,Respiraline,2026-04-21,Rescheduled,1.3,57.0
+R005,Morgan Novak,S02,South,H-S02-030,Cardiavex,2026-04-21,Rescheduled,1.8,57.0
+R006,Taylor Singh,S03,South,H-S03-022,Cardiavex,2026-04-21,Rescheduled,4.6,132.9
+R006,Taylor Singh,S03,South,H-S03-002,Respiraline,2026-04-21,Discussion Completed,4.8,132.9
+R008,Riley Fischer,E02,East,H-E02-037,Cardiavex,2026-04-21,Rescheduled,2.5,130.9
+R009,Nina Adeyemi,E03,East,H-E03-017,Glucanorm,2026-04-21,Discussion Completed,12.1,141.8
+R009,Nina Adeyemi,E03,East,H-E03-027,Cardiavex,2026-04-21,Rescheduled,3.8,141.8
+R010,Omar Cole,W01,West,H-W01-005,Cardiavex,2026-04-21,Rescheduled,6.4,363.5
+R010,Omar Cole,W01,West,H-W01-039,Glucanorm,2026-04-21,Sample Drop,12.4,363.5
+R001,Alex Reed,N01,North,H-N01-018,Glucanorm,2026-04-22,Rescheduled,3.1,46.3
+R001,Alex Reed,N01,North,H-N01-028,Respiraline,2026-04-22,Rescheduled,1.0,46.3
+R002,Jordan Kapoor,N02,North,H-N02-002,Cardiavex,2026-04-22,No Show,2.3,85.8
+R003,Priya Chen,N03,North,H-N03-010,Respiraline,2026-04-22,No Show,4.9,174.6
+R003,Priya Chen,N03,North,H-N03-002,Respiraline,2026-04-22,Rescheduled,5.4,174.6
+R004,Sam Ortiz,S01,South,H-S01-016,Glucanorm,2026-04-22,No Show,2.5,58.5
+R006,Taylor Singh,S03,South,H-S03-032,Cardiavex,2026-04-22,Completed,15.2,132.9
+R006,Taylor Singh,S03,South,H-S03-030,Glucanorm,2026-04-22,Rescheduled,3.3,132.9
+R007,Chris Brooks,E01,East,H-E01-004,Respiraline,2026-04-22,Completed,3.7,179.6
+R008,Riley Fischer,E02,East,H-E02-008,Respiraline,2026-04-22,Rescheduled,2.8,130.9
+R009,Nina Adeyemi,E03,East,H-E03-003,Cardiavex,2026-04-22,No Show,2.0,141.8
+R010,Omar Cole,W01,West,H-W01-035,Respiraline,2026-04-22,Completed,15.7,363.5
+R010,Omar Cole,W01,West,H-W01-011,Respiraline,2026-04-22,Sample Drop,6.2,363.5
+R011,Lee Park,W02,West,H-W02-007,Cardiavex,2026-04-22,Discussion Completed,5.7,57.8
+R011,Lee Park,W02,West,H-W02-007,Cardiavex,2026-04-22,Discussion Completed,5.7,57.8
+R006,Taylor Singh,S03,South,H-S03-002,Cardiavex,2026-04-23,Rescheduled,3.0,132.9
+R010,Omar Cole,W01,West,H-W01-017,Glucanorm,2026-04-23,Rescheduled,4.8,363.5
+R001,Alex Reed,N01,North,H-N01-016,Respiraline,2026-04-24,Discussion Completed,3.2,46.3
+R004,Sam Ortiz,S01,South,H-S01-001,Glucanorm,2026-04-24,Rescheduled,3.2,58.5
+R004,Sam Ortiz,S01,South,H-S01-008,Cardiavex,2026-04-24,Sample Drop,6.8,58.5
+R007,Chris Brooks,E01,East,H-E01-031,Respiraline,2026-04-24,Sample Drop,13.6,179.6
+R007,Chris Brooks,E01,East,H-E01-021,Cardiavex,2026-04-24,Discussion Completed,16.8,179.6
+R008,Riley Fischer,E02,East,H-E02-030,Glucanorm,2026-04-24,Rescheduled,1.8,130.9
+R009,Nina Adeyemi,E03,East,H-E03-030,Respiraline,2026-04-24,No Show,5.2,141.8
+R010,Omar Cole,W01,West,H-W01-037,Glucanorm,2026-04-24,Discussion Completed,6.2,363.5
+R011,Lee Park,W02,West,H-W02-025,Cardiavex,2026-04-24,Rescheduled,1.7,57.8
+R001,Alex Reed,N01,North,H-N01-025,Cardiavex,2026-04-25,Rescheduled,2.6,46.3
+R002,Jordan Kapoor,N02,North,H-N02-026,Glucanorm,2026-04-25,Rescheduled,2.8,85.8
+R002,Jordan Kapoor,N02,North,H-N02-026,Glucanorm,2026-04-25,Rescheduled,2.6,85.8
+R004,Sam Ortiz,S01,South,H-S01-007,Respiraline,2026-04-25,No Show,2.4,58.5
+R005,Morgan Novak,S02,South,H-S02-010,Glucanorm,2026-04-25,Discussion Completed,6.6,57.0
+R005,Morgan Novak,S02,South,H-S02-005,Cardiavex,2026-04-25,No Show,3.6,57.0
+R005,Morgan Novak,S02,South,H-S02-015,Cardiavex,2026-04-25,Discussion Completed,2.9,57.0
+R005,Morgan Novak,S02,South,H-S02-015,Cardiavex,2026-04-25,Discussion Completed,2.9,57.0
+R006,Taylor Singh,S03,South,H-S03-007,Glucanorm,2026-04-25,Completed,16.7,132.9
+R006,Taylor Singh,S03,South,H-S03-007,Glucanorm,2026-04-25,Discussion Completed,14.3,132.9
+R007,Chris Brooks,E01,East,H-E01-007,Respiraline,2026-04-25,Sample Drop,10.6,179.6
+R008,Riley Fischer,E02,East,H-E02-030,Glucanorm,2026-04-25,Rescheduled,1.9,130.9
+R009,Nina Adeyemi,E03,East,H-E03-002,Respiraline,2026-04-25,Discussion Completed,12.8,141.8
+R009,Nina Adeyemi,E03,East,H-E03-004,Cardiavex,2026-04-25,Rescheduled,2.6,141.8
+R006,Taylor Singh,S03,South,H-S03-014,Cardiavex,2026-04-26,Completed,15.8,132.9
+R007,Chris Brooks,E01,East,H-E01-006,Glucanorm,2026-04-26,Rescheduled,5.1,179.6
+R008,Riley Fischer,E02,East,H-E02-025,Glucanorm,2026-04-26,No Show,2.3,130.9
+R009,Nina Adeyemi,E03,East,H-E03-025,Respiraline,2026-04-26,No Show,3.3,141.8
+R010,Omar Cole,W01,West,H-W01-007,Cardiavex,2026-04-26,Sample Drop,6.0,363.5
+R002,Jordan Kapoor,N02,North,H-N02-028,Cardiavex,2026-04-27,Rescheduled,2.4,85.8
+R003,Priya Chen,N03,North,H-N03-027,Glucanorm,2026-04-27,Completed,16.5,174.6
+R004,Sam Ortiz,S01,South,H-S01-029,Respiraline,2026-04-27,No Show,0.8,58.5
+R009,Nina Adeyemi,E03,East,H-E03-008,Glucanorm,2026-04-27,Rescheduled,3.3,141.8
+R011,Lee Park,W02,West,H-W02-028,Cardiavex,2026-04-27,No Show,1.8,57.8
+R001,Alex Reed,N01,North,H-N01-001,Glucanorm,2026-05-01,No Show,3.2,88.9
+R005,Morgan Novak,S02,South,H-S02-009,Glucanorm,2026-05-01,Sample Drop,6.9,100.1
+R006,Taylor Singh,S03,South,H-S03-007,Cardiavex,2026-05-01,Completed,17.7,209.8
+R010,Omar Cole,W01,West,H-W01-028,Respiraline,2026-05-01,Sample Drop,5.7,378.7
+R001,Alex Reed,N01,North,H-N01-025,Cardiavex,2026-05-02,Rescheduled,0.8,88.9
+R003,Priya Chen,N03,North,H-N03-023,Cardiavex,2026-05-02,Completed,16.5,142.8
+R003,Priya Chen,N03,North,H-N03-031,Cardiavex,2026-05-02,Rescheduled,2.3,142.8
+R003,Priya Chen,N03,North,H-N03-026,Glucanorm,2026-05-02,No Show,2.3,142.8
+R005,Morgan Novak,S02,South,H-S02-023,Respiraline,2026-05-02,Rescheduled,3.3,100.1
+R005,Morgan Novak,S02,South,H-S02-033,Cardiavex,2026-05-02,Discussion Completed,13.2,100.1
+R007,Chris Brooks,E01,East,H-E01-013,Cardiavex,2026-05-02,Discussion Completed,4.7,143.8
+R008,Riley Fischer,E02,East,H-E02-008,Respiraline,2026-05-02,Rescheduled,3.7,154.7
+R010,Omar Cole,W01,West,H-W01-006,Respiraline,2026-05-02,Sample Drop,15.3,378.7
+R011,Lee Park,W02,West,H-W02-024,Respiraline,2026-05-02,No Show,2.3,45.7
+R011,Lee Park,W02,West,H-W02-016,Cardiavex,2026-05-02,Rescheduled,3.1,45.7
+R001,Alex Reed,N01,North,H-N01-008,Cardiavex,2026-05-03,Rescheduled,1.8,88.9
+R001,Alex Reed,N01,North,H-N01-016,Respiraline,2026-05-03,Discussion Completed,11.2,88.9
+R001,Alex Reed,N01,North,H-N01-024,Glucanorm,2026-05-03,No Show,1.4,88.9
+R002,Jordan Kapoor,N02,North,H-N02-018,Glucanorm,2026-05-03,Sample Drop,13.2,63.1
+R003,Priya Chen,N03,North,H-N03-034,Glucanorm,2026-05-03,Discussion Completed,8.9,142.8
+R004,Sam Ortiz,S01,South,H-S01-026,Glucanorm,2026-05-03,Rescheduled,3.1,79.9
+R004,Sam Ortiz,S01,South,H-S01-035,Cardiavex,2026-05-03,Discussion Completed,7.3,79.9
+R005,Morgan Novak,S02,South,H-S02-008,Respiraline,2026-05-03,Discussion Completed,3.6,100.1
+R006,Taylor Singh,S03,South,H-S03-008,Respiraline,2026-05-03,Rescheduled,4.3,209.8
+R007,Chris Brooks,E01,East,H-E01-011,Glucanorm,2026-05-03,Completed,8.5,143.8
+R008,Riley Fischer,E02,East,H-E02-022,Cardiavex,2026-05-03,Completed,8.6,154.7
+R009,Nina Adeyemi,E03,East,H-E03-017,Respiraline,2026-05-03,Discussion Completed,6.9,139.6
+R010,Omar Cole,W01,West,H-W01-030,Cardiavex,2026-05-03,Completed,6.6,378.7
+R012,Dana Hughes,W03,West,H-W03-003,Glucanorm,2026-05-03,Completed,7.6,21.0
+R006,Taylor Singh,S03,South,H-S03-025,Glucanorm,2026-05-04,Sample Drop,17.7,209.8
+R006,Taylor Singh,S03,South,H-S03-009,Cardiavex,2026-05-04,Discussion Completed,20.0,209.8
+R006,Taylor Singh,S03,South,H-S03-017,Glucanorm,2026-05-04,Discussion Completed,17.1,209.8
+R009,Nina Adeyemi,E03,East,H-E03-007,Respiraline,2026-05-04,Sample Drop,17.0,139.6
+R010,Omar Cole,W01,West,H-W01-022,Respiraline,2026-05-04,Completed,17.3,378.7
+R010,Omar Cole,W01,West,H-W01-014,Respiraline,2026-05-04,Rescheduled,3.7,378.7
+R010,Omar Cole,W01,West,H-W01-015,Cardiavex,2026-05-04,No Show,4.1,378.7
+R010,Omar Cole,W01,West,H-W01-024,Glucanorm,2026-05-04,No Show,2.2,378.7
+R011,Lee Park,W02,West,H-W02-015,Glucanorm,2026-05-04,Rescheduled,1.8,45.7
+R011,Lee Park,W02,West,H-W02-003,Respiraline,2026-05-04,Rescheduled,1.1,45.7
+R001,Alex Reed,N01,North,H-N01-002,Respiraline,2026-05-05,Completed,7.2,88.9
+R007,Chris Brooks,E01,East,H-E01-029,Cardiavex,2026-05-05,Rescheduled,1.3,143.8
+R008,Riley Fischer,E02,East,H-E02-020,Glucanorm,2026-05-05,Completed,13.8,154.7
+R009,Nina Adeyemi,E03,East,H-E03-009,Cardiavex,2026-05-05,Sample Drop,7.1,139.6
+R010,Omar Cole,W01,West,H-W01-029,Glucanorm,2026-05-05,Rescheduled,6.0,378.7
+R010,Omar Cole,W01,West,H-W01-020,Glucanorm,2026-05-05,Rescheduled,5.8,378.7
+R006,Taylor Singh,S03,South,H-S03-028,Glucanorm,2026-05-06,Rescheduled,4.2,209.8
+R006,Taylor Singh,S03,South,H-S03-031,Glucanorm,2026-05-06,Sample Drop,18.2,209.8
+R007,Chris Brooks,E01,East,H-E01-002,Respiraline,2026-05-06,Rescheduled,4.2,143.8
+R009,Nina Adeyemi,E03,East,H-E03-004,Cardiavex,2026-05-06,Rescheduled,4.5,139.6
+R009,Nina Adeyemi,E03,East,H-E03-028,Respiraline,2026-05-06,No Show,5.4,139.6
+R009,Nina Adeyemi,E03,East,H-E03-025,Cardiavex,2026-05-06,Rescheduled,5.5,139.6
+R010,Omar Cole,W01,West,H-W01-026,Glucanorm,2026-05-06,Completed,21.7,378.7
+R011,Lee Park,W02,West,H-W02-011,Respiraline,2026-05-06,Discussion Completed,5.6,45.7
+R011,Lee Park,W02,West,H-W02-022,Respiraline,2026-05-06,Completed,6.8,45.7
+R001,Alex Reed,N01,North,H-N01-025,Respiraline,2026-05-07,No Show,2.7,88.9
+R001,Alex Reed,N01,North,H-N01-024,Cardiavex,2026-05-07,Rescheduled,3.2,88.9
+R002,Jordan Kapoor,N02,North,H-N02-007,Cardiavex,2026-05-07,No Show,2.8,63.1
+R004,Sam Ortiz,S01,South,H-S01-035,Respiraline,2026-05-07,Rescheduled,2.9,79.9
+R005,Morgan Novak,S02,South,H-S02-024,Cardiavex,2026-05-07,Rescheduled,2.2,100.1
+R007,Chris Brooks,E01,East,H-E01-018,Glucanorm,2026-05-07,Sample Drop,16.6,143.8
+R007,Chris Brooks,E01,East,H-E01-017,Cardiavex,2026-05-07,Discussion Completed,10.9,143.8
+R007,Chris Brooks,E01,East,H-E01-007,Cardiavex,2026-05-07,Completed,4.7,143.8
+R008,Riley Fischer,E02,East,H-E02-026,Glucanorm,2026-05-07,Discussion Completed,11.5,154.7
+R010,Omar Cole,W01,West,H-W01-029,Cardiavex,2026-05-07,No Show,4.0,378.7
+R010,Omar Cole,W01,West,H-W01-010,Cardiavex,2026-05-07,Sample Drop,9.0,378.7
+R004,Sam Ortiz,S01,South,H-S01-009,Respiraline,2026-05-08,Discussion Completed,6.5,79.9
+R006,Taylor Singh,S03,South,H-S03-010,Respiraline,2026-05-08,No Show,5.5,209.8
+R006,Taylor Singh,S03,South,H-S03-024,Glucanorm,2026-05-08,Sample Drop,17.4,209.8
+R007,Chris Brooks,E01,East,H-E01-031,Glucanorm,2026-05-08,Discussion Completed,9.3,143.8
+R010,Omar Cole,W01,West,H-W01-013,Cardiavex,2026-05-08,Completed,11.1,378.7
+R010,Omar Cole,W01,West,H-W01-032,Glucanorm,2026-05-08,Discussion Completed,18.9,378.7
+R011,Lee Park,W02,West,H-W02-025,Glucanorm,2026-05-08,Completed,2.4,45.7
+R001,Alex Reed,N01,North,H-N01-002,Respiraline,2026-05-09,Completed,5.3,88.9
+R003,Priya Chen,N03,North,H-N03-036,Glucanorm,2026-05-09,Rescheduled,4.5,142.8
+R006,Taylor Singh,S03,South,H-S03-016,Glucanorm,2026-05-09,Rescheduled,6.0,209.8
+R007,Chris Brooks,E01,East,H-E01-001,Glucanorm,2026-05-09,Rescheduled,2.3,143.8
+R007,Chris Brooks,E01,East,H-E01-007,Respiraline,2026-05-09,No Show,4.5,143.8
+R007,Chris Brooks,E01,East,H-E01-010,Cardiavex,2026-05-09,Rescheduled,4.1,143.8
+R010,Omar Cole,W01,West,H-W01-025,Glucanorm,2026-05-09,No Show,5.6,378.7
+R011,Lee Park,W02,West,H-W02-005,Cardiavex,2026-05-09,No Show,2.9,45.7
+R002,Jordan Kapoor,N02,North,H-N02-013,Respiraline,2026-05-10,Rescheduled,2.5,63.1
+R002,Jordan Kapoor,N02,North,H-N02-017,Respiraline,2026-05-10,Rescheduled,2.2,63.1
+R003,Priya Chen,N03,North,H-N03-021,Cardiavex,2026-05-10,Completed,7.1,142.8
+R003,Priya Chen,N03,North,H-N03-031,Respiraline,2026-05-10,Rescheduled,3.2,142.8
+R005,Morgan Novak,S02,South,H-S02-016,Cardiavex,2026-05-10,Rescheduled,2.3,100.1
+R007,Chris Brooks,E01,East,H-E01-028,Cardiavex,2026-05-10,Completed,13.4,143.8
+R008,Riley Fischer,E02,East,H-E02-036,Cardiavex,2026-05-10,Sample Drop,11.5,154.7
+R008,Riley Fischer,E02,East,H-E02-001,Cardiavex,2026-05-10,Rescheduled,3.4,154.7
+R008,Riley Fischer,E02,East,H-E02-022,Respiraline,2026-05-10,No Show,3.7,154.7
+R008,Riley Fischer,E02,East,H-E02-034,Respiraline,2026-05-10,Sample Drop,12.8,154.7
+R008,Riley Fischer,E02,East,H-E02-044,Cardiavex,2026-05-10,Rescheduled,1.1,154.7
+R010,Omar Cole,W01,West,H-W01-018,Glucanorm,2026-05-10,Rescheduled,6.6,378.7
+R010,Omar Cole,W01,West,H-W01-024,Respiraline,2026-05-10,Rescheduled,4.1,378.7
+R002,Jordan Kapoor,N02,North,H-N02-002,Respiraline,2026-05-11,Rescheduled,2.1,63.1
+R003,Priya Chen,N03,North,H-N03-015,Glucanorm,2026-05-11,No Show,4.1,142.8
+R003,Priya Chen,N03,North,H-N03-001,Respiraline,2026-05-11,Sample Drop,7.9,142.8
+R007,Chris Brooks,E01,East,H-E01-012,Glucanorm,2026-05-11,Rescheduled,2.3,143.8
+R008,Riley Fischer,E02,East,H-E02-001,Respiraline,2026-05-11,No Show,3.8,154.7
+R008,Riley Fischer,E02,East,H-E02-040,Cardiavex,2026-05-11,Rescheduled,1.3,154.7
+R010,Omar Cole,W01,West,H-W01-035,Respiraline,2026-05-11,No Show,5.0,378.7
+R010,Omar Cole,W01,West,H-W01-039,Cardiavex,2026-05-11,Discussion Completed,6.7,378.7
+R003,Priya Chen,N03,North,H-N03-010,Respiraline,2026-05-12,Discussion Completed,11.0,142.8
+R003,Priya Chen,N03,North,H-N03-035,Glucanorm,2026-05-12,Rescheduled,2.3,142.8
+R004,Sam Ortiz,S01,South,H-S01-029,Cardiavex,2026-05-12,Sample Drop,9.8,79.9
+R005,Morgan Novak,S02,South,H-S02-012,Respiraline,2026-05-12,Sample Drop,12.4,100.1
+R005,Morgan Novak,S02,South,H-S02-001,Respiraline,2026-05-12,Completed,10.1,100.1
+R006,Taylor Singh,S03,South,H-S03-032,Glucanorm,2026-05-12,No Show,3.3,209.8
+R007,Chris Brooks,E01,East,H-E01-006,Glucanorm,2026-05-12,Discussion Completed,8.9,143.8
+R008,Riley Fischer,E02,East,H-E02-024,Glucanorm,2026-05-12,Rescheduled,1.3,154.7
+R010,Omar Cole,W01,West,H-W01-038,Respiraline,2026-05-12,Rescheduled,5.1,378.7
+R010,Omar Cole,W01,West,H-W01-037,Cardiavex,2026-05-12,Sample Drop,7.5,378.7
+R006,Taylor Singh,S03,South,H-S03-008,Respiraline,2026-05-13,Discussion Completed,4.1,209.8
+R007,Chris Brooks,E01,East,H-E01-010,Respiraline,2026-05-13,Completed,8.0,143.8
+R003,Priya Chen,N03,North,H-N03-010,Cardiavex,2026-05-14,Discussion Completed,11.3,142.8
+R003,Priya Chen,N03,North,H-N03-028,Respiraline,2026-05-14,No Show,3.0,142.8
+R005,Morgan Novak,S02,South,H-S02-023,Glucanorm,2026-05-14,Completed,12.8,100.1
+R006,Taylor Singh,S03,South,H-S03-014,Glucanorm,2026-05-14,Completed,14.7,209.8
+R007,Chris Brooks,E01,East,H-E01-012,Respiraline,2026-05-14,Discussion Completed,11.8,143.8
+R007,Chris Brooks,E01,East,H-E01-006,Respiraline,2026-05-14,Discussion Completed,6.7,143.8
+R007,Chris Brooks,E01,East,H-E01-023,Respiraline,2026-05-14,Rescheduled,3.0,143.8
+R009,Nina Adeyemi,E03,East,H-E03-013,Cardiavex,2026-05-14,Discussion Completed,8.4,139.6
+R010,Omar Cole,W01,West,H-W01-031,Glucanorm,2026-05-14,Sample Drop,21.9,378.7
+R005,Morgan Novak,S02,South,H-S02-008,Cardiavex,2026-05-15,Rescheduled,2.5,100.1
+R005,Morgan Novak,S02,South,H-S02-006,Glucanorm,2026-05-15,No Show,1.9,100.1
+R006,Taylor Singh,S03,South,H-S03-032,Cardiavex,2026-05-15,Completed,17.9,209.8
+R006,Taylor Singh,S03,South,H-S03-023,Glucanorm,2026-05-15,No Show,1.7,209.8
+R007,Chris Brooks,E01,East,H-E01-001,Glucanorm,2026-05-15,Rescheduled,4.5,143.8
+R007,Chris Brooks,E01,East,H-E01-030,Cardiavex,2026-05-15,Completed,5.6,143.8
+R008,Riley Fischer,E02,East,H-E02-036,Glucanorm,2026-05-15,No Show,1.6,154.7
+R008,Riley Fischer,E02,East,H-E02-021,Glucanorm,2026-05-15,Rescheduled,3.9,154.7
+R008,Riley Fischer,E02,East,H-E02-006,Glucanorm,2026-05-15,Rescheduled,2.0,154.7
+R002,Jordan Kapoor,N02,North,H-N02-025,Cardiavex,2026-05-16,Rescheduled,1.5,63.1
+R003,Priya Chen,N03,North,H-N03-007,Cardiavex,2026-05-16,Rescheduled,3.8,142.8
+R005,Morgan Novak,S02,South,H-S02-035,Cardiavex,2026-05-16,No Show,3.2,100.1
+R006,Taylor Singh,S03,South,H-S03-002,Respiraline,2026-05-16,Discussion Completed,10.3,209.8
+R006,Taylor Singh,S03,South,H-S03-024,Glucanorm,2026-05-16,Sample Drop,4.9,209.8
+R006,Taylor Singh,S03,South,H-S03-023,Glucanorm,2026-05-16,Completed,16.2,209.8
+R007,Chris Brooks,E01,East,H-E01-022,Cardiavex,2026-05-16,No Show,3.2,143.8
+R007,Chris Brooks,E01,East,H-E01-004,Glucanorm,2026-05-16,Rescheduled,5.1,143.8
+R008,Riley Fischer,E02,East,H-E02-045,Cardiavex,2026-05-16,No Show,3.0,154.7
+R009,Nina Adeyemi,E03,East,H-E03-005,Glucanorm,2026-05-16,Rescheduled,5.5,139.6
+R009,Nina Adeyemi,E03,East,H-E03-007,Cardiavex,2026-05-16,No Show,4.3,139.6
+R010,Omar Cole,W01,West,H-W01-012,Respiraline,2026-05-16,Sample Drop,9.0,378.7
+R010,Omar Cole,W01,West,H-W01-036,Respiraline,2026-05-16,Rescheduled,5.4,378.7
+R010,Omar Cole,W01,West,H-W01-004,Respiraline,2026-05-16,Completed,8.6,378.7
+R001,Alex Reed,N01,North,H-N01-028,Cardiavex,2026-05-17,Discussion Completed,9.9,88.9
+R001,Alex Reed,N01,North,H-N01-013,Glucanorm,2026-05-17,Discussion Completed,10.6,88.9
+R003,Priya Chen,N03,North,H-N03-009,Respiraline,2026-05-17,No Show,1.8,142.8
+R008,Riley Fischer,E02,East,H-E02-008,Cardiavex,2026-05-17,Rescheduled,1.5,154.7
+R009,Nina Adeyemi,E03,East,H-E03-006,Glucanorm,2026-05-17,No Show,3.3,139.6
+R010,Omar Cole,W01,West,H-W01-033,Respiraline,2026-05-17,Completed,5.5,378.7
+R010,Omar Cole,W01,West,H-W01-031,Glucanorm,2026-05-17,Rescheduled,6.5,378.7
+R001,Alex Reed,N01,North,H-N01-007,Respiraline,2026-05-18,Rescheduled,3.3,88.9
+R002,Jordan Kapoor,N02,North,H-N02-022,Respiraline,2026-05-18,Completed,8.5,63.1
+R003,Priya Chen,N03,North,H-N03-002,Respiraline,2026-05-18,No Show,3.4,142.8
+R003,Priya Chen,N03,North,H-N03-005,Cardiavex,2026-05-18,Sample Drop,12.9,142.8
+R005,Morgan Novak,S02,South,H-S02-006,Glucanorm,2026-05-18,Rescheduled,1.5,100.1
+R006,Taylor Singh,S03,South,H-S03-018,Respiraline,2026-05-18,No Show,1.5,209.8
+R007,Chris Brooks,E01,East,H-E01-016,Respiraline,2026-05-18,Sample Drop,15.2,143.8
+R010,Omar Cole,W01,West,H-W01-017,Glucanorm,2026-05-18,Sample Drop,7.2,378.7
+R001,Alex Reed,N01,North,H-N01-008,Cardiavex,2026-05-19,Discussion Completed,7.8,88.9
+R001,Alex Reed,N01,North,H-N01-006,Glucanorm,2026-05-19,Rescheduled,3.2,88.9
+R004,Sam Ortiz,S01,South,H-S01-026,Cardiavex,2026-05-19,Rescheduled,3.2,79.9
+R008,Riley Fischer,E02,East,H-E02-005,Glucanorm,2026-05-19,Rescheduled,2.7,154.7
+R008,Riley Fischer,E02,East,H-E02-020,Glucanorm,2026-05-19,Rescheduled,1.1,154.7
+R009,Nina Adeyemi,E03,East,H-E03-029,Glucanorm,2026-05-19,Discussion Completed,11.4,139.6
+R012,Dana Hughes,W03,West,H-W03-002,Cardiavex,2026-05-19,No Show,1.4,21.0
+R003,Priya Chen,N03,North,H-N03-001,Cardiavex,2026-05-20,No Show,3.5,142.8
+R003,Priya Chen,N03,North,H-N03-034,Glucanorm,2026-05-20,Rescheduled,1.2,142.8
+R006,Taylor Singh,S03,South,H-S03-030,Cardiavex,2026-05-20,Discussion Completed,10.1,209.8
+R007,Chris Brooks,E01,East,H-E01-031,Cardiavex,2026-05-20,No Show,3.6,143.8
+R008,Riley Fischer,E02,East,H-E02-024,Cardiavex,2026-05-20,Rescheduled,1.5,154.7
+R002,Jordan Kapoor,N02,North,H-N02-017,Cardiavex,2026-05-21,Rescheduled,3.2,63.1
+R002,Jordan Kapoor,N02,North,H-N02-001,Glucanorm,2026-05-21,No Show,4.0,63.1
+R003,Priya Chen,N03,North,H-N03-021,Glucanorm,2026-05-21,Rescheduled,1.4,142.8
+R003,Priya Chen,N03,North,H-N03-016,Cardiavex,2026-05-21,Completed,14.1,142.8
+R004,Sam Ortiz,S01,South,H-S01-017,Cardiavex,2026-05-21,Completed,6.7,79.9
+R005,Morgan Novak,S02,South,H-S02-026,Cardiavex,2026-05-21,No Show,3.9,100.1
+R007,Chris Brooks,E01,East,H-E01-015,Glucanorm,2026-05-21,Rescheduled,2.7,143.8
+R008,Riley Fischer,E02,East,H-E02-019,Respiraline,2026-05-21,Rescheduled,3.9,154.7
+R010,Omar Cole,W01,West,H-W01-028,Cardiavex,2026-05-21,Sample Drop,13.6,378.7
+R001,Alex Reed,N01,North,H-N01-014,Glucanorm,2026-05-22,Rescheduled,1.5,88.9
+R002,Jordan Kapoor,N02,North,H-N02-014,Cardiavex,2026-05-22,Rescheduled,2.3,63.1
+R004,Sam Ortiz,S01,South,H-S01-003,Glucanorm,2026-05-22,No Show,1.7,79.9
+R005,Morgan Novak,S02,South,H-S02-024,Respiraline,2026-05-22,Discussion Completed,6.1,100.1
+R006,Taylor Singh,S03,South,H-S03-007,Respiraline,2026-05-22,Completed,5.3,209.8
+R006,Taylor Singh,S03,South,H-S03-020,Glucanorm,2026-05-22,Rescheduled,3.0,209.8
+R006,Taylor Singh,S03,South,H-S03-010,Respiraline,2026-05-22,Discussion Completed,15.8,209.8
+R008,Riley Fischer,E02,East,H-E02-026,Cardiavex,2026-05-22,Completed,5.9,154.7
+R008,Riley Fischer,E02,East,H-E02-038,Cardiavex,2026-05-22,Sample Drop,3.8,154.7
+R009,Nina Adeyemi,E03,East,H-E03-013,Cardiavex,2026-05-22,Rescheduled,3.4,139.6
+R010,Omar Cole,W01,West,H-W01-041,Glucanorm,2026-05-22,No Show,2.6,378.7
+R010,Omar Cole,W01,West,H-W01-039,Cardiavex,2026-05-22,Discussion Completed,19.2,378.7
+R011,Lee Park,W02,West,H-W02-005,Cardiavex,2026-05-22,Sample Drop,6.3,45.7
+R001,Alex Reed,N01,North,H-N01-014,Glucanorm,2026-05-23,Rescheduled,1.7,88.9
+R002,Jordan Kapoor,N02,North,H-N02-022,Glucanorm,2026-05-23,Sample Drop,5.5,63.1
+R002,Jordan Kapoor,N02,North,H-N02-026,Glucanorm,2026-05-23,No Show,2.1,63.1
+R003,Priya Chen,N03,North,H-N03-022,Cardiavex,2026-05-23,Sample Drop,12.6,142.8
+R003,Priya Chen,N03,North,H-N03-003,Glucanorm,2026-05-23,Discussion Completed,8.8,142.8
+R004,Sam Ortiz,S01,South,H-S01-013,Cardiavex,2026-05-23,Discussion Completed,8.1,79.9
+R006,Taylor Singh,S03,South,H-S03-025,Glucanorm,2026-05-23,No Show,4.4,209.8
+R006,Taylor Singh,S03,South,H-S03-006,Cardiavex,2026-05-23,Rescheduled,3.3,209.8
+R008,Riley Fischer,E02,East,H-E02-033,Cardiavex,2026-05-23,Sample Drop,8.4,154.7
+R008,Riley Fischer,E02,East,H-E02-027,Respiraline,2026-05-23,Rescheduled,3.0,154.7
+R008,Riley Fischer,E02,East,H-E02-011,Glucanorm,2026-05-23,Rescheduled,1.9,154.7
+R009,Nina Adeyemi,E03,East,H-E03-009,Glucanorm,2026-05-23,Sample Drop,6.2,139.6
+R009,Nina Adeyemi,E03,East,H-E03-016,Respiraline,2026-05-23,Sample Drop,14.3,139.6
+R010,Omar Cole,W01,West,H-W01-032,Glucanorm,2026-05-23,Rescheduled,4.8,378.7
+R003,Priya Chen,N03,North,H-N03-032,Cardiavex,2026-05-24,Rescheduled,4.5,142.8
+R003,Priya Chen,N03,North,H-N03-032,Cardiavex,2026-05-24,Rescheduled,1.3,142.8
+R005,Morgan Novak,S02,South,H-S02-009,Cardiavex,2026-05-24,Rescheduled,3.6,100.1
+R009,Nina Adeyemi,E03,East,H-E03-016,Respiraline,2026-05-24,Rescheduled,2.7,139.6
+R009,Nina Adeyemi,E03,East,H-E03-021,Glucanorm,2026-05-24,No Show,2.7,139.6
+R010,Omar Cole,W01,West,H-W01-026,Cardiavex,2026-05-24,Sample Drop,7.7,378.7
+R002,Jordan Kapoor,N02,North,H-N02-026,Glucanorm,2026-05-25,Rescheduled,3.3,63.1
+R004,Sam Ortiz,S01,South,H-S01-034,Glucanorm,2026-05-25,Sample Drop,5.6,79.9
+R004,Sam Ortiz,S01,South,H-S01-015,Respiraline,2026-05-25,Rescheduled,1.7,79.9
+R004,Sam Ortiz,S01,South,H-S01-015,Respiraline,2026-05-25,Rescheduled,1.4,79.9
+R005,Morgan Novak,S02,South,H-S02-012,Glucanorm,2026-05-25,No Show,3.5,100.1
+R006,Taylor Singh,S03,South,H-S03-020,Cardiavex,2026-05-25,No Show,5.4,209.8
+R008,Riley Fischer,E02,East,H-E02-007,Respiraline,2026-05-25,Rescheduled,1.1,154.7
+R008,Riley Fischer,E02,East,H-E02-007,Respiraline,2026-05-25,Rescheduled,1.3,154.7
+R008,Riley Fischer,E02,East,H-E02-031,Cardiavex,2026-05-25,Rescheduled,4.0,154.7
+R009,Nina Adeyemi,E03,East,H-E03-003,Cardiavex,2026-05-25,No Show,2.8,139.6
+R010,Omar Cole,W01,West,H-W01-025,Glucanorm,2026-05-25,No Show,6.3,378.7
+R011,Lee Park,W02,West,H-W02-022,Cardiavex,2026-05-25,Sample Drop,6.0,45.7
+R012,Dana Hughes,W03,West,H-W03-002,Glucanorm,2026-05-25,Discussion Completed,11.8,21.0
+R001,Alex Reed,N01,North,H-N01-001,Glucanorm,2026-05-26,Rescheduled,2.6,88.9
+R001,Alex Reed,N01,North,H-N01-003,Respiraline,2026-05-26,Rescheduled,2.0,88.9
+R003,Priya Chen,N03,North,H-N03-020,Cardiavex,2026-05-26,Rescheduled,4.3,142.8
+R003,Priya Chen,N03,North,H-N03-035,Cardiavex,2026-05-26,No Show,4.0,142.8
+R004,Sam Ortiz,S01,South,H-S01-023,Cardiavex,2026-05-26,Rescheduled,3.1,79.9
+R004,Sam Ortiz,S01,South,H-S01-012,Respiraline,2026-05-26,No Show,0.9,79.9
+R005,Morgan Novak,S02,South,H-S02-017,Glucanorm,2026-05-26,Completed,3.0,100.1
+R008,Riley Fischer,E02,East,H-E02-033,Respiraline,2026-05-26,Rescheduled,3.7,154.7
+R009,Nina Adeyemi,E03,East,H-E03-029,Respiraline,2026-05-26,Discussion Completed,9.1,139.6
+R009,Nina Adeyemi,E03,East,H-E03-010,Cardiavex,2026-05-26,Sample Drop,11.4,139.6
+R009,Nina Adeyemi,E03,East,H-E03-028,Cardiavex,2026-05-26,Completed,4.5,139.6
+R009,Nina Adeyemi,E03,East,H-E03-001,Glucanorm,2026-05-26,No Show,2.1,139.6
+R010,Omar Cole,W01,West,H-W01-001,Cardiavex,2026-05-26,No Show,4.8,378.7
+R010,Omar Cole,W01,West,H-W01-016,Cardiavex,2026-05-26,Completed,18.8,378.7
+R010,Omar Cole,W01,West,H-W01-010,Respiraline,2026-05-26,Sample Drop,7.7,378.7
+R010,Omar Cole,W01,West,H-W01-001,Cardiavex,2026-05-26,No Show,4.8,378.7
+R002,Jordan Kapoor,N02,North,H-N02-001,Glucanorm,2026-05-27,No Show,4.0,63.1
+R002,Jordan Kapoor,N02,North,H-N02-015,Glucanorm,2026-05-27,Discussion Completed,12.2,63.1
+R002,Jordan Kapoor,N02,North,H-N02-012,Cardiavex,2026-05-27,Rescheduled,2.5,63.1
+R003,Priya Chen,N03,North,H-N03-027,Respiraline,2026-05-27,Rescheduled,3.1,142.8
+R005,Morgan Novak,S02,South,H-S02-033,Cardiavex,2026-05-27,Sample Drop,8.2,100.1
+R006,Taylor Singh,S03,South,H-S03-012,Cardiavex,2026-05-27,Rescheduled,3.6,209.8
+R007,Chris Brooks,E01,East,H-E01-002,Cardiavex,2026-05-27,Sample Drop,12.1,143.8
+R008,Riley Fischer,E02,East,H-E02-017,Respiraline,2026-05-27,Rescheduled,1.0,154.7
+R008,Riley Fischer,E02,East,H-E02-041,Glucanorm,2026-05-27,Discussion Completed,4.9,154.7
+R010,Omar Cole,W01,West,H-W01-014,Cardiavex,2026-05-27,No Show,3.2,378.7
+R010,Omar Cole,W01,West,H-W01-018,Respiraline,2026-05-27,No Show,5.4,378.7
+R011,Lee Park,W02,West,H-W02-003,Cardiavex,2026-05-27,Discussion Completed,4.1,45.7
+R003,Priya Chen,N03,North,H-N03-010,Glucanorm,2026-06-01,Rescheduled,3.4,109.9
+R003,Priya Chen,N03,North,H-N03-003,Glucanorm,2026-06-01,Discussion Completed,10.5,109.9
+R005,Morgan Novak,S02,South,H-S02-032,Glucanorm,2026-06-01,Rescheduled,1.4,93.4
+R005,Morgan Novak,S02,South,H-S02-022,Glucanorm,2026-06-01,No Show,1.0,93.4
+R010,Omar Cole,W01,West,H-W01-028,Respiraline,2026-06-01,Completed,22.8,567.3
+R010,Omar Cole,W01,West,H-W01-017,Cardiavex,2026-06-01,Sample Drop,20.6,567.3
+R010,Omar Cole,W01,West,H-W01-024,Glucanorm,2026-06-01,Completed,5.0,567.3
+R010,Omar Cole,W01,West,H-W01-033,Glucanorm,2026-06-01,Rescheduled,3.5,567.3
+R003,Priya Chen,N03,North,H-N03-008,Cardiavex,2026-06-02,No Show,1.5,109.9
+R005,Morgan Novak,S02,South,H-S02-008,Cardiavex,2026-06-02,Sample Drop,3.7,93.4
+R005,Morgan Novak,S02,South,H-S02-015,Glucanorm,2026-06-02,Discussion Completed,11.7,93.4
+R006,Taylor Singh,S03,South,H-S03-012,Respiraline,2026-06-02,No Show,4.1,262.9
+R006,Taylor Singh,S03,South,H-S03-017,Glucanorm,2026-06-02,Completed,15.3,262.9
+R006,Taylor Singh,S03,South,H-S03-021,Cardiavex,2026-06-02,Sample Drop,14.3,262.9
+R007,Chris Brooks,E01,East,H-E01-025,Cardiavex,2026-06-02,No Show,2.0,190.3
+R008,Riley Fischer,E02,East,H-E02-031,Cardiavex,2026-06-02,Discussion Completed,2.8,185.6
+R008,Riley Fischer,E02,East,H-E02-020,Respiraline,2026-06-02,Rescheduled,2.1,185.6
+R008,Riley Fischer,E02,East,H-E02-045,Respiraline,2026-06-02,No Show,3.4,185.6
+R008,Riley Fischer,E02,East,H-E02-004,Respiraline,2026-06-02,Rescheduled,3.3,185.6
+R009,Nina Adeyemi,E03,East,H-E03-026,Respiraline,2026-06-02,Sample Drop,6.0,267.3
+R009,Nina Adeyemi,E03,East,H-E03-005,Respiraline,2026-06-02,Discussion Completed,18.5,267.3
+R010,Omar Cole,W01,West,H-W01-041,Glucanorm,2026-06-02,Completed,10.2,567.3
+R002,Jordan Kapoor,N02,North,H-N02-017,Glucanorm,2026-06-03,Rescheduled,2.9,84.6
+R003,Priya Chen,N03,North,H-N03-034,Glucanorm,2026-06-03,Discussion Completed,18.2,109.9
+R004,Sam Ortiz,S01,South,H-S01-023,Respiraline,2026-06-03,Sample Drop,9.2,76.2
+R004,Sam Ortiz,S01,South,H-S01-022,Respiraline,2026-06-03,Rescheduled,3.1,76.2
+R005,Morgan Novak,S02,South,H-S02-023,Glucanorm,2026-06-03,Rescheduled,3.8,93.4
+R005,Morgan Novak,S02,South,H-S02-012,Glucanorm,2026-06-03,Discussion Completed,11.6,93.4
+R005,Morgan Novak,S02,South,H-S02-012,Glucanorm,2026-06-03,No Show,1.2,93.4
+R007,Chris Brooks,E01,East,H-E01-006,Cardiavex,2026-06-03,Sample Drop,8.9,190.3
+R007,Chris Brooks,E01,East,H-E01-024,Cardiavex,2026-06-03,Rescheduled,2.0,190.3
+R008,Riley Fischer,E02,East,H-E02-022,Respiraline,2026-06-03,Rescheduled,3.6,185.6
+R009,Nina Adeyemi,E03,East,H-E03-017,Glucanorm,2026-06-03,Sample Drop,19.3,267.3
+R010,Omar Cole,W01,West,H-W01-005,Glucanorm,2026-06-03,Sample Drop,17.9,567.3
+R010,Omar Cole,W01,West,H-W01-001,Respiraline,2026-06-03,Discussion Completed,15.2,567.3
+R011,Lee Park,W02,West,H-W02-011,Glucanorm,2026-06-03,No Show,1.4,35.4
+R001,Alex Reed,N01,North,H-N01-017,Cardiavex,2026-06-04,Discussion Completed,7.1,49.0
+R001,Alex Reed,N01,North,H-N01-005,Respiraline,2026-06-04,Rescheduled,1.2,49.0
+R002,Jordan Kapoor,N02,North,H-N02-014,Glucanorm,2026-06-04,Discussion Completed,9.2,84.6
+R003,Priya Chen,N03,North,H-N03-029,Respiraline,2026-06-04,Sample Drop,10.2,109.9
+R004,Sam Ortiz,S01,South,H-S01-028,Respiraline,2026-06-04,Sample Drop,3.1,76.2
+R004,Sam Ortiz,S01,South,H-S01-003,Glucanorm,2026-06-04,Completed,5.2,76.2
+R004,Sam Ortiz,S01,South,H-S01-008,Cardiavex,2026-06-04,No Show,2.3,76.2
+R005,Morgan Novak,S02,South,H-S02-030,Glucanorm,2026-06-04,Discussion Completed,11.8,93.4
+R006,Taylor Singh,S03,South,H-S03-031,Cardiavex,2026-06-04,Completed,6.1,262.9
+R007,Chris Brooks,E01,East,H-E01-025,Respiraline,2026-06-04,Completed,10.4,190.3
+R007,Chris Brooks,E01,East,H-E01-021,Glucanorm,2026-06-04,Discussion Completed,6.8,190.3
+R009,Nina Adeyemi,E03,East,H-E03-015,Cardiavex,2026-06-04,Completed,16.7,267.3
+R010,Omar Cole,W01,West,H-W01-026,Glucanorm,2026-06-04,Rescheduled,2.8,567.3
+R010,Omar Cole,W01,West,H-W01-011,Cardiavex,2026-06-04,Discussion Completed,12.8,567.3
+R010,Omar Cole,W01,West,H-W01-030,Cardiavex,2026-06-04,Sample Drop,6.8,567.3
+R010,Omar Cole,W01,West,H-W01-027,Respiraline,2026-06-04,Rescheduled,2.4,567.3
+R010,Omar Cole,W01,West,H-W01-032,Respiraline,2026-06-04,Completed,15.4,567.3
+R011,Lee Park,W02,West,H-W02-028,Respiraline,2026-06-04,Rescheduled,1.1,35.4
+R003,Priya Chen,N03,North,H-N03-019,Cardiavex,2026-06-05,Rescheduled,1.4,109.9
+R003,Priya Chen,N03,North,H-N03-013,Cardiavex,2026-06-05,Completed,11.2,109.9
+R005,Morgan Novak,S02,South,H-S02-006,Respiraline,2026-06-05,Rescheduled,1.2,93.4
+R006,Taylor Singh,S03,South,H-S03-018,Respiraline,2026-06-05,Discussion Completed,18.6,262.9
+R006,Taylor Singh,S03,South,H-S03-017,Respiraline,2026-06-05,No Show,5.1,262.9
+R007,Chris Brooks,E01,East,H-E01-028,Respiraline,2026-06-05,Sample Drop,3.9,190.3
+R007,Chris Brooks,E01,East,H-E01-005,Glucanorm,2026-06-05,Discussion Completed,13.1,190.3
+R007,Chris Brooks,E01,East,H-E01-023,Glucanorm,2026-06-05,Completed,14.4,190.3
+R008,Riley Fischer,E02,East,H-E02-030,Respiraline,2026-06-05,No Show,3.6,185.6
+R009,Nina Adeyemi,E03,East,H-E03-016,Glucanorm,2026-06-05,Sample Drop,12.6,267.3
+R009,Nina Adeyemi,E03,East,H-E03-006,Respiraline,2026-06-05,Completed,13.5,267.3
+R010,Omar Cole,W01,West,H-W01-006,Glucanorm,2026-06-05,Discussion Completed,8.5,567.3
+R010,Omar Cole,W01,West,H-W01-036,Respiraline,2026-06-05,Rescheduled,5.4,567.3
+R010,Omar Cole,W01,West,H-W01-002,Cardiavex,2026-06-05,Sample Drop,11.4,567.3
+R001,Alex Reed,N01,North,H-N01-002,Cardiavex,2026-06-06,No Show,3.0,49.0
+R001,Alex Reed,N01,North,H-N01-001,Glucanorm,2026-06-06,Rescheduled,0.8,49.0
+R002,Jordan Kapoor,N02,North,H-N02-026,Cardiavex,2026-06-06,Rescheduled,1.0,84.6
+R002,Jordan Kapoor,N02,North,H-N02-001,Respiraline,2026-06-06,Sample Drop,6.1,84.6
+R003,Priya Chen,N03,North,H-N03-011,Cardiavex,2026-06-06,Discussion Completed,8.7,109.9
+R005,Morgan Novak,S02,South,H-S02-019,Cardiavex,2026-06-06,Sample Drop,3.1,93.4
+R006,Taylor Singh,S03,South,H-S03-031,Respiraline,2026-06-06,Discussion Completed,15.9,262.9
+R007,Chris Brooks,E01,East,H-E01-020,Cardiavex,2026-06-06,Rescheduled,4.5,190.3
+R007,Chris Brooks,E01,East,H-E01-026,Respiraline,2026-06-06,Rescheduled,1.7,190.3
+R009,Nina Adeyemi,E03,East,H-E03-026,Glucanorm,2026-06-06,Sample Drop,13.8,267.3
+R010,Omar Cole,W01,West,H-W01-040,Glucanorm,2026-06-06,Completed,17.7,567.3
+R010,Omar Cole,W01,West,H-W01-007,Cardiavex,2026-06-06,Completed,10.2,567.3
+R001,Alex Reed,N01,North,H-N01-009,Respiraline,2026-06-07,Rescheduled,0.9,49.0
+R003,Priya Chen,N03,North,H-N03-003,Cardiavex,2026-06-07,Rescheduled,4.6,109.9
+R005,Morgan Novak,S02,South,H-S02-027,Respiraline,2026-06-07,Rescheduled,1.6,93.4
+R006,Taylor Singh,S03,South,H-S03-011,Respiraline,2026-06-07,Completed,9.6,262.9
+R006,Taylor Singh,S03,South,H-S03-014,Respiraline,2026-06-07,Completed,5.3,262.9
+R007,Chris Brooks,E01,East,H-E01-010,Respiraline,2026-06-07,Completed,13.8,190.3
+R004,Sam Ortiz,S01,South,H-S01-013,Glucanorm,2026-06-08,Rescheduled,2.3,76.2
+R004,Sam Ortiz,S01,South,H-S01-010,Glucanorm,2026-06-08,Rescheduled,2.9,76.2
+R005,Morgan Novak,S02,South,H-S02-014,Glucanorm,2026-06-08,Sample Drop,10.2,93.4
+R006,Taylor Singh,S03,South,H-S03-024,Glucanorm,2026-06-08,Discussion Completed,15.4,262.9
+R007,Chris Brooks,E01,East,H-E01-009,Respiraline,2026-06-08,Sample Drop,7.4,190.3
+R009,Nina Adeyemi,E03,East,H-E03-028,Cardiavex,2026-06-08,Completed,19.2,267.3
+R011,Lee Park,W02,West,H-W02-023,Glucanorm,2026-06-08,Completed,4.2,35.4
+R011,Lee Park,W02,West,H-W02-025,Cardiavex,2026-06-08,Rescheduled,1.0,35.4
+R002,Jordan Kapoor,N02,North,H-N02-019,Glucanorm,2026-06-09,Discussion Completed,10.0,84.6
+R002,Jordan Kapoor,N02,North,H-N02-025,Glucanorm,2026-06-09,Rescheduled,3.9,84.6
+R004,Sam Ortiz,S01,South,H-S01-031,Glucanorm,2026-06-09,Rescheduled,2.8,76.2
+R005,Morgan Novak,S02,South,H-S02-029,Cardiavex,2026-06-09,No Show,0.9,93.4
+R007,Chris Brooks,E01,East,H-E01-011,Cardiavex,2026-06-09,Completed,11.7,190.3
+R007,Chris Brooks,E01,East,H-E01-005,Glucanorm,2026-06-09,Rescheduled,2.0,190.3
+R008,Riley Fischer,E02,East,H-E02-042,Respiraline,2026-06-09,Rescheduled,2.8,185.6
+R009,Nina Adeyemi,E03,East,H-E03-007,Glucanorm,2026-06-09,Discussion Completed,15.0,267.3
+R009,Nina Adeyemi,E03,East,H-E03-002,Glucanorm,2026-06-09,Rescheduled,5.7,267.3
+R009,Nina Adeyemi,E03,East,H-E03-014,Respiraline,2026-06-09,Rescheduled,2.9,267.3
+R002,Jordan Kapoor,N02,North,H-N02-020,Glucanorm,2026-06-10,Discussion Completed,5.8,84.6
+R003,Priya Chen,N03,North,H-N03-024,Glucanorm,2026-06-10,Rescheduled,2.0,109.9
+R004,Sam Ortiz,S01,South,H-S01-025,Glucanorm,2026-06-10,Rescheduled,0.9,76.2
+R004,Sam Ortiz,S01,South,H-S01-031,Cardiavex,2026-06-10,Completed,3.7,76.2
+R007,Chris Brooks,E01,East,H-E01-006,Glucanorm,2026-06-10,Rescheduled,5.6,190.3
+R010,Omar Cole,W01,West,H-W01-022,Cardiavex,2026-06-10,Discussion Completed,5.0,567.3
+R010,Omar Cole,W01,West,H-W01-023,Cardiavex,2026-06-10,Completed,19.0,567.3
+R010,Omar Cole,W01,West,H-W01-029,Cardiavex,2026-06-10,No Show,2.4,567.3
+R004,Sam Ortiz,S01,South,H-S01-012,Cardiavex,2026-06-11,No Show,1.4,76.2
+R004,Sam Ortiz,S01,South,H-S01-020,Respiraline,2026-06-11,Discussion Completed,6.6,76.2
+R005,Morgan Novak,S02,South,H-S02-018,Glucanorm,2026-06-11,No Show,3.1,93.4
+R005,Morgan Novak,S02,South,H-S02-013,Cardiavex,2026-06-11,Rescheduled,0.9,93.4
+R006,Taylor Singh,S03,South,H-S03-015,Glucanorm,2026-06-11,Sample Drop,20.1,262.9
+R008,Riley Fischer,E02,East,H-E02-012,Glucanorm,2026-06-11,Rescheduled,1.4,185.6
+R009,Nina Adeyemi,E03,East,H-E03-013,Glucanorm,2026-06-11,Discussion Completed,5.3,267.3
+R009,Nina Adeyemi,E03,East,H-E03-014,Respiraline,2026-06-11,No Show,4.9,267.3
+R010,Omar Cole,W01,West,H-W01-020,Respiraline,2026-06-11,Discussion Completed,16.1,567.3
+R010,Omar Cole,W01,West,H-W01-033,Glucanorm,2026-06-11,Sample Drop,11.5,567.3
+R001,Alex Reed,N01,North,H-N01-011,Glucanorm,2026-06-12,Rescheduled,1.8,49.0
+R005,Morgan Novak,S02,South,H-S02-003,Cardiavex,2026-06-12,No Show,2.3,93.4
+R005,Morgan Novak,S02,South,H-S02-029,Cardiavex,2026-06-12,Rescheduled,3.0,93.4
+R005,Morgan Novak,S02,South,H-S02-005,Glucanorm,2026-06-12,Rescheduled,1.9,93.4
+R008,Riley Fischer,E02,East,H-E02-008,Cardiavex,2026-06-12,Sample Drop,5.4,185.6
+R008,Riley Fischer,E02,East,H-E02-004,Glucanorm,2026-06-12,No Show,1.8,185.6
+R009,Nina Adeyemi,E03,East,H-E03-012,Cardiavex,2026-06-12,Discussion Completed,17.1,267.3
+R009,Nina Adeyemi,E03,East,H-E03-025,Cardiavex,2026-06-12,No Show,1.8,267.3
+R001,Alex Reed,N01,North,H-N01-021,Glucanorm,2026-06-13,No Show,1.3,49.0
+R001,Alex Reed,N01,North,H-N01-029,Cardiavex,2026-06-13,Rescheduled,3.3,49.0
+R004,Sam Ortiz,S01,South,H-S01-025,Cardiavex,2026-06-13,Rescheduled,0.9,76.2
+R006,Taylor Singh,S03,South,H-S03-021,Glucanorm,2026-06-13,Discussion Completed,19.9,262.9
+R007,Chris Brooks,E01,East,H-E01-018,Respiraline,2026-06-13,Discussion Completed,13.5,190.3
+R007,Chris Brooks,E01,East,H-E01-017,Glucanorm,2026-06-13,Rescheduled,2.2,190.3
+R007,Chris Brooks,E01,East,H-E01-020,Glucanorm,2026-06-13,Rescheduled,5.4,190.3
+R008,Riley Fischer,E02,East,H-E02-021,Respiraline,2026-06-13,Discussion Completed,3.5,185.6
+R008,Riley Fischer,E02,East,H-E02-023,Respiraline,2026-06-13,Rescheduled,2.1,185.6
+R010,Omar Cole,W01,West,H-W01-035,Respiraline,2026-06-13,Completed,20.9,567.3
+R010,Omar Cole,W01,West,H-W01-003,Cardiavex,2026-06-13,Completed,14.5,567.3
+R011,Lee Park,W02,West,H-W02-027,Cardiavex,2026-06-13,Rescheduled,1.7,35.4
+R001,Alex Reed,N01,North,H-N01-028,Respiraline,2026-06-14,No Show,1.1,49.0
+R001,Alex Reed,N01,North,H-N01-023,Respiraline,2026-06-14,Discussion Completed,8.7,49.0
+R002,Jordan Kapoor,N02,North,H-N02-017,Cardiavex,2026-06-14,Rescheduled,1.4,84.6
+R004,Sam Ortiz,S01,South,H-S01-028,Respiraline,2026-06-14,Rescheduled,2.0,76.2
+R005,Morgan Novak,S02,South,H-S02-010,Cardiavex,2026-06-14,Rescheduled,1.6,93.4
+R006,Taylor Singh,S03,South,H-S03-025,Respiraline,2026-06-14,Rescheduled,2.6,262.9
+R008,Riley Fischer,E02,East,H-E02-002,Glucanorm,2026-06-14,Rescheduled,4.2,185.6
+R008,Riley Fischer,E02,East,H-E02-010,Glucanorm,2026-06-14,Rescheduled,2.5,185.6
+R009,Nina Adeyemi,E03,East,H-E03-003,Glucanorm,2026-06-14,Rescheduled,1.8,267.3
+R010,Omar Cole,W01,West,H-W01-007,Cardiavex,2026-06-14,Rescheduled,4.8,567.3
+R011,Lee Park,W02,West,H-W02-004,Cardiavex,2026-06-14,Completed,5.3,35.4
+R001,Alex Reed,N01,North,H-N01-017,Glucanorm,2026-06-15,Rescheduled,2.2,49.0
+R001,Alex Reed,N01,North,H-N01-014,Cardiavex,2026-06-15,Rescheduled,1.3,49.0
+R005,Morgan Novak,S02,South,H-S02-003,Glucanorm,2026-06-15,Rescheduled,1.2,93.4
+R005,Morgan Novak,S02,South,H-S02-028,Respiraline,2026-06-15,Rescheduled,1.6,93.4
+R006,Taylor Singh,S03,South,H-S03-027,Respiraline,2026-06-15,Discussion Completed,6.3,262.9
+R006,Taylor Singh,S03,South,H-S03-001,Respiraline,2026-06-15,No Show,4.7,262.9
+R007,Chris Brooks,E01,East,H-E01-013,Cardiavex,2026-06-15,Rescheduled,4.2,190.3
+R008,Riley Fischer,E02,East,H-E02-025,Cardiavex,2026-06-15,Completed,7.5,185.6
+R009,Nina Adeyemi,E03,East,H-E03-022,Cardiavex,2026-06-15,No Show,2.2,267.3
+R010,Omar Cole,W01,West,H-W01-037,Glucanorm,2026-06-15,Rescheduled,5.4,567.3
+R010,Omar Cole,W01,West,H-W01-019,Cardiavex,2026-06-15,Discussion Completed,21.9,567.3
+R010,Omar Cole,W01,West,H-W01-013,Respiraline,2026-06-15,Rescheduled,3.9,567.3
+R011,Lee Park,W02,West,H-W02-027,Glucanorm,2026-06-15,Discussion Completed,7.8,35.4
+R006,Taylor Singh,S03,South,H-S03-008,Cardiavex,2026-06-16,No Show,4.6,262.9
+R008,Riley Fischer,E02,East,H-E02-024,Cardiavex,2026-06-16,Sample Drop,11.9,185.6
+R008,Riley Fischer,E02,East,H-E02-006,Cardiavex,2026-06-16,Rescheduled,1.1,185.6
+R008,Riley Fischer,E02,East,H-E02-042,Cardiavex,2026-06-16,No Show,3.2,185.6
+R008,Riley Fischer,E02,East,H-E02-045,Glucanorm,2026-06-16,Rescheduled,2.8,185.6
+R009,Nina Adeyemi,E03,East,H-E03-001,Glucanorm,2026-06-16,Discussion Completed,6.1,267.3
+R003,Priya Chen,N03,North,H-N03-012,Respiraline,2026-06-17,Discussion Completed,12.2,109.9
+R003,Priya Chen,N03,North,H-N03-011,Cardiavex,2026-06-17,No Show,2.2,109.9
+R005,Morgan Novak,S02,South,H-S02-035,Cardiavex,2026-06-17,Discussion Completed,13.4,93.4
+R006,Taylor Singh,S03,South,H-S03-002,Respiraline,2026-06-17,Rescheduled,5.8,262.9
+R008,Riley Fischer,E02,East,H-E02-019,Glucanorm,2026-06-17,No Show,2.4,185.6
+R009,Nina Adeyemi,E03,East,H-E03-021,Respiraline,2026-06-17,No Show,3.8,267.3
+R010,Omar Cole,W01,West,H-W01-025,Glucanorm,2026-06-17,Sample Drop,6.4,567.3
+R001,Alex Reed,N01,North,H-N01-027,Cardiavex,2026-06-18,Rescheduled,1.0,49.0
+R003,Priya Chen,N03,North,H-N03-035,Glucanorm,2026-06-18,Rescheduled,4.8,109.9
+R003,Priya Chen,N03,North,H-N03-021,Glucanorm,2026-06-18,Discussion Completed,12.6,109.9
+R005,Morgan Novak,S02,South,H-S02-004,Cardiavex,2026-06-18,Rescheduled,1.7,93.4
+R006,Taylor Singh,S03,South,H-S03-029,Glucanorm,2026-06-18,Rescheduled,4.7,262.9
+R006,Taylor Singh,S03,South,H-S03-013,Cardiavex,2026-06-18,Sample Drop,14.2,262.9
+R007,Chris Brooks,E01,East,H-E01-030,Glucanorm,2026-06-18,No Show,2.0,190.3
+R007,Chris Brooks,E01,East,H-E01-013,Glucanorm,2026-06-18,Rescheduled,4.8,190.3
+R008,Riley Fischer,E02,East,H-E02-035,Glucanorm,2026-06-18,Completed,4.3,185.6
+R010,Omar Cole,W01,West,H-W01-034,Respiraline,2026-06-18,Rescheduled,5.0,567.3
+R010,Omar Cole,W01,West,H-W01-021,Glucanorm,2026-06-18,Completed,17.9,567.3
+R001,Alex Reed,N01,North,H-N01-016,Glucanorm,2026-06-19,Rescheduled,1.0,49.0
+R002,Jordan Kapoor,N02,North,H-N02-025,Respiraline,2026-06-19,Sample Drop,5.6,84.6
+R003,Priya Chen,N03,North,H-N03-017,Respiraline,2026-06-19,Sample Drop,4.7,109.9
+R004,Sam Ortiz,S01,South,H-S01-019,Respiraline,2026-06-19,Rescheduled,1.7,76.2
+R008,Riley Fischer,E02,East,H-E02-017,Respiraline,2026-06-19,Rescheduled,1.7,185.6
+R008,Riley Fischer,E02,East,H-E02-024,Glucanorm,2026-06-19,Rescheduled,2.7,185.6
+R008,Riley Fischer,E02,East,H-E02-032,Cardiavex,2026-06-19,Rescheduled,3.1,185.6
+R008,Riley Fischer,E02,East,H-E02-002,Respiraline,2026-06-19,Rescheduled,1.9,185.6
+R008,Riley Fischer,E02,East,H-E02-020,Respiraline,2026-06-19,Rescheduled,1.1,185.6
+R008,Riley Fischer,E02,East,H-E02-013,Glucanorm,2026-06-19,Discussion Completed,9.3,185.6
+R010,Omar Cole,W01,West,H-W01-038,Glucanorm,2026-06-19,Sample Drop,15.3,567.3
+R010,Omar Cole,W01,West,H-W01-010,Glucanorm,2026-06-19,Sample Drop,19.0,567.3
+R010,Omar Cole,W01,West,H-W01-027,Respiraline,2026-06-19,Sample Drop,21.1,567.3
+R003,Priya Chen,N03,North,H-N03-009,Respiraline,2026-06-20,Rescheduled,2.6,109.9
+R004,Sam Ortiz,S01,South,H-S01-003,Glucanorm,2026-06-20,Rescheduled,1.8,76.2
+R005,Morgan Novak,S02,South,H-S02-019,Respiraline,2026-06-20,Rescheduled,1.8,93.4
+R007,Chris Brooks,E01,East,H-E01-027,Respiraline,2026-06-20,No Show,2.4,190.3
+R007,Chris Brooks,E01,East,H-E01-004,Cardiavex,2026-06-20,Completed,6.1,190.3
+R007,Chris Brooks,E01,East,H-E01-002,Cardiavex,2026-06-20,Discussion Completed,4.7,190.3
+R008,Riley Fischer,E02,East,H-E02-005,Glucanorm,2026-06-20,No Show,3.7,185.6
+R008,Riley Fischer,E02,East,H-E02-036,Respiraline,2026-06-20,Sample Drop,11.1,185.6
+R009,Nina Adeyemi,E03,East,H-E03-027,Respiraline,2026-06-20,Rescheduled,3.4,267.3
+R009,Nina Adeyemi,E03,East,H-E03-024,Cardiavex,2026-06-20,Sample Drop,15.0,267.3
+R011,Lee Park,W02,West,H-W02-018,Respiraline,2026-06-20,Rescheduled,2.5,35.4
+R011,Lee Park,W02,West,H-W02-020,Glucanorm,2026-06-20,No Show,1.6,35.4
+R001,Alex Reed,N01,North,H-N01-027,Respiraline,2026-06-21,Rescheduled,3.3,49.0
+R002,Jordan Kapoor,N02,North,H-N02-015,Glucanorm,2026-06-21,Rescheduled,4.2,84.6
+R003,Priya Chen,N03,North,H-N03-009,Cardiavex,2026-06-21,Discussion Completed,6.1,109.9
+R006,Taylor Singh,S03,South,H-S03-022,Respiraline,2026-06-21,Completed,15.8,262.9
+R007,Chris Brooks,E01,East,H-E01-002,Cardiavex,2026-06-21,Discussion Completed,5.7,190.3
+R008,Riley Fischer,E02,East,H-E02-017,Respiraline,2026-06-21,Sample Drop,7.9,185.6
+R008,Riley Fischer,E02,East,H-E02-006,Glucanorm,2026-06-21,No Show,3.8,185.6
+R009,Nina Adeyemi,E03,East,H-E03-020,Glucanorm,2026-06-21,No Show,1.8,267.3
+R009,Nina Adeyemi,E03,East,H-E03-029,Glucanorm,2026-06-21,Completed,11.6,267.3
+R010,Omar Cole,W01,West,H-W01-004,Respiraline,2026-06-21,Rescheduled,2.7,567.3
+R010,Omar Cole,W01,West,H-W01-015,Respiraline,2026-06-21,Completed,5.0,567.3
+R011,Lee Park,W02,West,H-W02-020,Respiraline,2026-06-21,Rescheduled,2.2,35.4
+R002,Jordan Kapoor,N02,North,H-N02-011,Glucanorm,2026-06-22,No Show,4.0,84.6
+R002,Jordan Kapoor,N02,North,H-N02-003,Cardiavex,2026-06-22,Rescheduled,3.9,84.6
+R006,Taylor Singh,S03,South,H-S03-016,Respiraline,2026-06-22,Discussion Completed,20.1,262.9
+R006,Taylor Singh,S03,South,H-S03-013,Cardiavex,2026-06-22,Rescheduled,4.9,262.9
+R007,Chris Brooks,E01,East,H-E01-008,Cardiavex,2026-06-22,Completed,13.3,190.3
+R008,Riley Fischer,E02,East,H-E02-028,Cardiavex,2026-06-22,Completed,10.0,185.6
+R008,Riley Fischer,E02,East,H-E02-036,Respiraline,2026-06-22,Discussion Completed,11.7,185.6
+R008,Riley Fischer,UNK,East,H-E02-040,Respiraline,2026-06-22,No Show,2.9,185.6
+R009,Nina Adeyemi,E03,East,H-E03-020,Glucanorm,2026-06-22,No Show,2.0,267.3
+R010,Omar Cole,W01,West,H-W01-036,Respiraline,2026-06-22,Rescheduled,4.5,567.3
+R012,Dana Hughes,W03,West,H-W03-003,Respiraline,2026-06-22,No Show,3.1,8.4
+R002,Jordan Kapoor,N02,North,H-N02-005,Cardiavex,2026-06-23,Sample Drop,13.9,84.6
+R003,Priya Chen,N03,North,H-N03-025,Glucanorm,2026-06-23,Rescheduled,3.3,109.9
+R003,Priya Chen,N03,North,H-N03-005,Respiraline,2026-06-23,Rescheduled,2.9,109.9
+R004,Sam Ortiz,S01,South,H-S01-020,Cardiavex,2026-06-23,Sample Drop,10.8,76.2
+R008,Riley Fischer,E02,East,H-E02-026,Respiraline,2026-06-23,Discussion Completed,3.7,185.6
+R008,Riley Fischer,E02,East,H-E02-026,Glucanorm,2026-06-23,Rescheduled,1.2,185.6
+R010,Omar Cole,W01,West,H-W01-034,Glucanorm,2026-06-23,Discussion Completed,18.8,567.3
+R010,Omar Cole,W01,West,H-W01-025,Cardiavex,2026-06-23,Sample Drop,6.3,567.3
+R010,Omar Cole,W01,West,H-W01-019,Cardiavex,2026-06-23,Discussion Completed,17.4,567.3
+R011,Lee Park,W02,West,H-W02-007,Respiraline,2026-06-23,Rescheduled,1.9,35.4
+R001,Alex Reed,N01,North,H-N01-003,Glucanorm,2026-06-24,No Show,2.8,49.0
+R001,Alex Reed,N01,North,H-N01-003,Glucanorm,2026-06-24,No Show,1.1,49.0
+R001,Alex Reed,N01,North,H-N01-023,Cardiavex,2026-06-24,Rescheduled,1.6,49.0
+R002,Jordan Kapoor,N02,North,H-N02-015,Respiraline,2026-06-24,Completed,10.6,84.6
+R005,Morgan Novak,S02,South,H-S02-018,Glucanorm,2026-06-24,Sample Drop,5.3,93.4
+R009,Nina Adeyemi,E03,East,H-E03-030,Glucanorm,2026-06-24,No Show,2.5,267.3
+R009,Nina Adeyemi,E03,East,H-E03-011,Cardiavex,2026-06-24,Completed,6.3,267.3
+R010,Omar Cole,W01,West,H-W01-014,Cardiavex,2026-06-24,No Show,5.6,567.3
+R012,Dana Hughes,W03,West,H-W03-005,Cardiavex,2026-06-24,No Show,4.9,8.4
+R002,Jordan Kapoor,N02,North,H-N02-004,Respiraline,2026-06-25,Rescheduled,1.0,84.6
+R006,Taylor Singh,S03,South,H-S03-032,Glucanorm,2026-06-25,Sample Drop,20.0,262.9
+R006,Taylor Singh,S03,South,H-S03-029,Respiraline,2026-06-25,Sample Drop,13.4,262.9
+R006,Taylor Singh,S03,South,H-S03-006,Respiraline,2026-06-25,Rescheduled,4.2,262.9
+R007,Chris Brooks,E01,East,H-E01-016,Glucanorm,2026-06-25,Completed,15.8,190.3
+R008,Riley Fischer,E02,East,H-E02-030,Glucanorm,2026-06-25,Completed,8.7,185.6
+R009,Nina Adeyemi,E03,East,H-E03-018,Cardiavex,2026-06-25,Rescheduled,4.0,267.3
+R009,Nina Adeyemi,E03,East,H-E03-006,Cardiavex,2026-06-25,Sample Drop,5.5,267.3
+R010,Omar Cole,W01,West,H-W01-039,Respiraline,2026-06-25,Rescheduled,4.9,567.3
+R011,Lee Park,W02,West,H-W02-021,Glucanorm,2026-06-25,Rescheduled,1.1,35.4
+R001,Alex Reed,N01,North,H-N01-009,Cardiavex,2026-06-26,No Show,3.1,49.0
+R002,Jordan Kapoor,N02,North,H-N02-026,Glucanorm,2026-06-26,Sample Drop,7.6,84.6
+R003,Priya Chen,N03,North,H-N03-034,Glucanorm,2026-06-26,Rescheduled,4.0,109.9
+R005,Morgan Novak,S02,South,H-S02-017,Cardiavex,2026-06-26,Rescheduled,0.9,93.4
+R005,Morgan Novak,S02,South,H-S02-027,Cardiavex,2026-06-26,Rescheduled,4.1,93.4
+R006,Taylor Singh,S03,South,H-S03-030,Glucanorm,2026-06-26,Discussion Completed,15.6,262.9
+R006,Taylor Singh,S03,South,H-S03-004,Cardiavex,2026-06-26,Completed,10.3,262.9
+R007,Chris Brooks,E01,East,H-E01-015,Cardiavex,2026-06-26,Sample Drop,10.0,190.3
+R007,Chris Brooks,E01,East,H-E01-019,Cardiavex,2026-06-26,Completed,4.6,190.3
+R007,Chris Brooks,E01,East,H-E01-026,Respiraline,2026-06-26,Completed,15.6,190.3
+R010,Omar Cole,W01,West,H-W01-009,Respiraline,2026-06-26,Discussion Completed,12.8,567.3
+R010,Omar Cole,W01,West,H-W01-009,Glucanorm,2026-06-26,Sample Drop,15.4,567.3
+R002,Jordan Kapoor,N02,North,H-N02-016,Glucanorm,2026-06-27,No Show,3.4,84.6
+R004,Sam Ortiz,S01,South,H-S01-034,Respiraline,2026-06-27,No Show,1.0,76.2
+R006,Taylor Singh,S03,South,H-S03-015,Respiraline,2026-06-27,Sample Drop,13.9,262.9
+R006,Taylor Singh,S03,South,H-S03-020,Glucanorm,2026-06-27,Rescheduled,4.7,262.9
+R007,Chris Brooks,E01,East,H-E01-014,Cardiavex,2026-06-27,Completed,18.5,190.3
+R008,Riley Fischer,E02,East,H-E02-015,Glucanorm,2026-06-27,No Show,1.4,185.6
+R009,Nina Adeyemi,E03,East,H-E03-011,Glucanorm,2026-06-27,Discussion Completed,11.6,267.3
+R009,Nina Adeyemi,E03,East,H-E03-028,Respiraline,2026-06-27,Completed,6.1,267.3
+R006,Taylor Singh,S03,South,H-S03-005,Glucanorm,2026-07-01,No Show,3.8,185.7
+R007,Chris Brooks,E01,East,H-E01-016,Respiraline,2026-07-01,Rescheduled,2.9,147.4
+R007,Chris Brooks,E01,East,H-E01-007,Glucanorm,2026-07-01,Rescheduled,4.7,147.4
+R009,Nina Adeyemi,E03,East,H-E03-016,Cardiavex,2026-07-01,No Show,5.5,211.0
+R009,Nina Adeyemi,E03,East,H-E03-020,Glucanorm,2026-07-01,No Show,4.3,211.0
+R012,Dana Hughes,W03,West,H-W03-002,Glucanorm,2026-07-01,No Show,1.4,6.5
+R002,Jordan Kapoor,N02,North,H-N02-005,Glucanorm,2026-07-02,No Show,4.2,100.3
+R003,Priya Chen,N03,North,H-N03-027,Respiraline,2026-07-02,Sample Drop,9.8,240.2
+R003,Priya Chen,N03,North,H-N03-028,Glucanorm,2026-07-02,Sample Drop,11.3,240.2
+R003,Priya Chen,N03,North,H-N03-020,Respiraline,2026-07-02,Rescheduled,2.0,240.2
+R005,Morgan Novak,S02,South,H-S02-004,Respiraline,2026-07-02,Completed,5.1,91.3
+R006,Taylor Singh,S03,South,H-S03-028,Glucanorm,2026-07-02,Rescheduled,3.1,185.7
+R006,Taylor Singh,S03,South,H-S03-011,Cardiavex,2026-07-02,Completed,17.2,185.7
+R007,Chris Brooks,E01,East,H-E01-018,Cardiavex,2026-07-02,Sample Drop,5.3,147.4
+R008,Riley Fischer,E02,East,H-E02-010,Respiraline,2026-07-02,No Show,3.8,109.2
+R010,Omar Cole,W01,West,H-W01-010,Cardiavex,2026-07-02,No Show,1.7,498.3
+R010,Omar Cole,W01,West,H-W01-011,Respiraline,2026-07-02,No Show,5.8,498.3
+R011,Lee Park,W02,West,H-W02-007,Respiraline,2026-07-02,No Show,3.2,37.9
+R005,Morgan Novak,S02,South,H-S02-008,Respiraline,2026-07-03,No Show,2.9,91.3
+R005,Morgan Novak,S02,South,H-S02-022,Cardiavex,2026-07-03,Rescheduled,1.9,91.3
+R006,Taylor Singh,S03,South,H-S03-002,Respiraline,2026-07-03,Completed,9.6,185.7
+R006,Taylor Singh,S03,South,H-S03-019,Cardiavex,2026-07-03,Discussion Completed,18.4,185.7
+R006,Taylor Singh,S03,South,H-S03-001,Cardiavex,2026-07-03,Rescheduled,1.4,185.7
+R007,Chris Brooks,E01,East,H-E01-011,Respiraline,2026-07-03,Completed,11.2,147.4
+R007,Chris Brooks,E01,East,H-E01-024,Cardiavex,2026-07-03,Discussion Completed,9.2,147.4
+R008,Riley Fischer,E02,East,H-E02-029,Cardiavex,2026-07-03,No Show,2.1,109.2
+R009,Nina Adeyemi,E03,East,H-E03-003,Glucanorm,2026-07-03,Discussion Completed,18.8,211.0
+R009,Nina Adeyemi,E03,East,H-E03-030,Glucanorm,2026-07-03,Completed,8.4,211.0
+R010,Omar Cole,W01,West,H-W01-001,Respiraline,2026-07-03,No Show,3.1,498.3
+R010,Omar Cole,W01,West,H-W01-003,Cardiavex,2026-07-03,Rescheduled,1.5,498.3
+R010,Omar Cole,W01,West,H-W01-011,Respiraline,2026-07-03,Rescheduled,3.8,498.3
+R010,Omar Cole,W01,West,H-W01-023,Respiraline,2026-07-03,Completed,5.6,498.3
+R011,Lee Park,W02,West,H-W02-024,Glucanorm,2026-07-03,Rescheduled,1.5,37.9
+R001,Alex Reed,N01,North,H-N01-025,Glucanorm,2026-07-04,Rescheduled,2.4,77.8
+R002,Jordan Kapoor,N02,North,H-N02-007,Cardiavex,2026-07-04,Rescheduled,1.3,100.3
+R002,Jordan Kapoor,N02,North,H-N02-005,Cardiavex,2026-07-04,Discussion Completed,7.1,100.3
+R003,Priya Chen,N03,North,H-N03-018,Respiraline,2026-07-04,Sample Drop,9.0,240.2
+R003,Priya Chen,N03,North,H-N03-030,Respiraline,2026-07-04,Sample Drop,17.4,240.2
+R003,Priya Chen,N03,North,H-N03-033,Glucanorm,2026-07-04,Sample Drop,9.8,240.2
+R003,Priya Chen,N03,North,H-N03-036,Respiraline,2026-07-04,Rescheduled,2.8,240.2
+R004,Sam Ortiz,S01,South,H-S01-033,Respiraline,2026-07-04,Sample Drop,3.2,77.2
+R005,Morgan Novak,S02,South,H-S02-029,Cardiavex,2026-07-04,No Show,1.9,91.3
+R005,Morgan Novak,S02,South,H-S02-022,Glucanorm,2026-07-04,Completed,4.5,91.3
+R006,Taylor Singh,S03,South,H-S03-019,Respiraline,2026-07-04,Discussion Completed,4.2,185.7
+R006,Taylor Singh,S03,South,H-S03-026,Respiraline,2026-07-04,Discussion Completed,16.9,185.7
+R008,Riley Fischer,E02,East,H-E02-012,Respiraline,2026-07-04,Rescheduled,2.3,109.2
+R009,Nina Adeyemi,E03,East,H-E03-014,Glucanorm,2026-07-04,Sample Drop,10.6,211.0
+R010,Omar Cole,W01,West,H-W01-034,Glucanorm,2026-07-04,Rescheduled,4.1,498.3
+R002,Jordan Kapoor,N02,North,H-N02-002,Respiraline,2026-07-05,No Show,1.2,100.3
+R003,Priya Chen,N03,North,H-N03-028,Respiraline,2026-07-05,Rescheduled,1.7,240.2
+R003,Priya Chen,N03,North,H-N03-003,Cardiavex,2026-07-05,No Show,1.2,240.2
+R004,Sam Ortiz,S01,South,H-S01-003,Glucanorm,2026-07-05,Rescheduled,1.9,77.2
+R005,Morgan Novak,S02,South,H-S02-015,Glucanorm,2026-07-05,Completed,3.4,91.3
+R005,Morgan Novak,S02,South,H-S02-015,Cardiavex,2026-07-05,Rescheduled,3.3,91.3
+R001,Alex Reed,N01,North,H-N01-020,Glucanorm,2026-07-06,Rescheduled,1.7,77.8
+R003,Priya Chen,N03,North,H-N03-002,Respiraline,2026-07-06,No Show,4.3,240.2
+R003,Priya Chen,N03,North,H-N03-032,Respiraline,2026-07-06,Rescheduled,3.1,240.2
+R003,Priya Chen,N03,North,H-N03-015,Respiraline,2026-07-06,Rescheduled,3.8,240.2
+R005,Morgan Novak,S02,South,H-S02-030,Respiraline,2026-07-06,Rescheduled,3.1,91.3
+R005,Morgan Novak,S02,South,H-S02-031,Glucanorm,2026-07-06,No Show,3.7,91.3
+R005,Morgan Novak,S02,South,H-S02-001,Cardiavex,2026-07-06,Rescheduled,1.8,91.3
+R007,Chris Brooks,E01,East,H-E01-003,Respiraline,2026-07-06,Rescheduled,3.0,147.4
+R007,Chris Brooks,E01,East,H-E01-017,Respiraline,2026-07-06,Rescheduled,3.1,147.4
+R008,Riley Fischer,E02,East,H-E02-017,Glucanorm,2026-07-06,Discussion Completed,3.4,109.2
+R009,Nina Adeyemi,E03,East,H-E03-001,Respiraline,2026-07-06,No Show,4.1,211.0
+R009,Nina Adeyemi,E03,East,H-E03-015,Glucanorm,2026-07-06,Completed,7.1,211.0
+R010,Omar Cole,W01,West,H-W01-008,Glucanorm,2026-07-06,Sample Drop,15.7,498.3
+R010,Omar Cole,W01,West,H-W01-037,Respiraline,2026-07-06,No Show,6.9,498.3
+R011,Lee Park,W02,West,H-W02-002,Cardiavex,2026-07-06,Rescheduled,0.8,37.9
+R001,Alex Reed,N01,North,H-N01-024,Cardiavex,2026-07-07,Completed,11.0,77.8
+R003,Priya Chen,N03,North,H-N03-006,Glucanorm,2026-07-07,Discussion Completed,16.4,240.2
+R004,Sam Ortiz,S01,South,H-S01-021,Cardiavex,2026-07-07,Discussion Completed,7.3,77.2
+R005,Morgan Novak,S02,South,H-S02-018,Glucanorm,2026-07-07,No Show,2.6,91.3
+R006,Taylor Singh,S03,South,H-S03-014,Respiraline,2026-07-07,No Show,3.9,185.7
+R007,Chris Brooks,E01,East,H-E01-019,Glucanorm,2026-07-07,Rescheduled,4.6,147.4
+R007,Chris Brooks,E01,East,H-E01-020,Cardiavex,2026-07-07,Discussion Completed,12.4,147.4
+R009,Nina Adeyemi,E03,East,H-E03-004,Cardiavex,2026-07-07,Rescheduled,2.0,211.0
+R010,Omar Cole,W01,West,H-W01-022,Respiraline,2026-07-07,Rescheduled,5.1,498.3
+R011,Lee Park,W02,West,H-W02-008,Cardiavex,2026-07-07,Completed,3.2,37.9
+R012,Dana Hughes,W03,West,H-W03-002,Glucanorm,2026-07-07,No Show,5.3,6.5
+R001,Alex Reed,N01,North,H-N01-017,Respiraline,2026-07-08,Discussion Completed,6.3,77.8
+R002,Jordan Kapoor,N02,North,H-N02-007,Respiraline,2026-07-08,No Show,3.1,100.3
+R002,Jordan Kapoor,N02,North,H-N02-022,Respiraline,2026-07-08,Rescheduled,3.8,100.3
+R003,Priya Chen,N03,North,H-N03-029,Cardiavex,2026-07-08,Sample Drop,4.4,240.2
+R003,Priya Chen,N03,North,H-N03-035,Cardiavex,2026-07-08,Sample Drop,17.4,240.2
+R004,Sam Ortiz,S01,South,H-S01-029,Glucanorm,2026-07-08,Rescheduled,1.1,77.2
+R004,Sam Ortiz,S01,South,H-S01-010,Respiraline,2026-07-08,Rescheduled,2.1,77.2
+R007,Chris Brooks,E01,East,H-E01-007,Respiraline,2026-07-08,Completed,18.4,147.4
+R009,Nina Adeyemi,E03,East,H-E03-013,Cardiavex,2026-07-08,Rescheduled,1.3,211.0
+R010,Omar Cole,W01,West,H-W01-009,Glucanorm,2026-07-08,No Show,1.6,498.3
+R011,Lee Park,W02,West,H-W02-020,Respiraline,2026-07-08,Rescheduled,1.3,37.9
+R001,Alex Reed,N01,North,H-N01-029,Respiraline,2026-07-09,Rescheduled,2.0,77.8
+R002,Jordan Kapoor,N02,North,H-N02-009,Respiraline,2026-07-09,Rescheduled,4.0,100.3
+R002,Jordan Kapoor,N02,North,H-N02-019,Glucanorm,2026-07-09,Completed,3.8,100.3
+R004,Sam Ortiz,S01,South,H-S01-002,Respiraline,2026-07-09,Rescheduled,1.8,77.2
+R008,Riley Fischer,E02,East,H-E02-042,Cardiavex,2026-07-09,Sample Drop,5.6,109.2
+R008,Riley Fischer,E02,East,H-E02-026,Cardiavex,2026-07-09,Discussion Completed,9.9,109.2
+R010,Omar Cole,W01,West,H-W01-021,Cardiavex,2026-07-09,No Show,4.8,498.3
+R010,Omar Cole,W01,West,H-W01-038,Cardiavex,2026-07-09,No Show,6.3,498.3
+R001,Alex Reed,N01,North,H-N01-031,Respiraline,2026-07-10,Sample Drop,7.6,77.8
+R002,Jordan Kapoor,N02,North,H-N02-008,Cardiavex,2026-07-10,Sample Drop,5.0,100.3
+R003,Priya Chen,N03,North,H-N03-032,Cardiavex,2026-07-10,Rescheduled,5.2,240.2
+R007,Chris Brooks,E01,East,H-E01-006,Glucanorm,2026-07-10,Discussion Completed,5.5,147.4
+R007,Chris Brooks,E01,East,H-E01-014,Cardiavex,2026-07-10,Completed,16.7,147.4
+R008,Riley Fischer,E02,East,H-E02-009,Respiraline,2026-07-10,Rescheduled,1.6,109.2
+R008,Riley Fischer,E02,East,H-E02-043,Glucanorm,2026-07-10,No Show,2.1,109.2
+R008,Riley Fischer,E02,East,H-E02-010,Cardiavex,2026-07-10,Completed,9.7,109.2
+R009,Nina Adeyemi,E03,East,H-E03-023,Glucanorm,2026-07-10,Rescheduled,2.2,211.0
+R010,Omar Cole,W01,West,H-W01-004,Respiraline,2026-07-10,Discussion Completed,15.1,498.3
+R001,Alex Reed,N01,North,H-N01-013,Cardiavex,2026-07-11,No Show,1.0,77.8
+R002,Jordan Kapoor,N02,North,H-N02-018,Respiraline,2026-07-11,Completed,5.1,100.3
+R003,Priya Chen,N03,North,H-N03-017,Glucanorm,2026-07-11,No Show,4.3,240.2
+R003,Priya Chen,N03,North,H-N03-016,Respiraline,2026-07-11,Discussion Completed,16.0,240.2
+R004,Sam Ortiz,S01,South,H-S01-026,Glucanorm,2026-07-11,No Show,0.9,77.2
+R007,Chris Brooks,E01,East,H-E01-005,Respiraline,2026-07-11,Rescheduled,3.6,147.4
+R010,Omar Cole,W01,West,H-W01-030,Glucanorm,2026-07-11,No Show,4.9,498.3
+R010,Omar Cole,W01,West,H-W01-017,Cardiavex,2026-07-11,Completed,4.9,498.3
+R011,Lee Park,W02,West,H-W02-013,Cardiavex,2026-07-11,Rescheduled,2.0,37.9
+R003,Priya Chen,N03,North,H-N03-036,Respiraline,2026-07-12,Rescheduled,2.3,240.2
+R005,Morgan Novak,S02,South,H-S02-025,Glucanorm,2026-07-12,No Show,3.1,91.3
+R005,Morgan Novak,S02,South,H-S02-008,Cardiavex,2026-07-12,No Show,2.9,91.3
+R007,Chris Brooks,E01,East,H-E01-017,Respiraline,2026-07-12,No Show,5.6,147.4
+R007,Chris Brooks,E01,East,H-E01-005,Glucanorm,2026-07-12,Discussion Completed,16.3,147.4
+R010,Omar Cole,W01,West,H-W01-014,Glucanorm,2026-07-12,No Show,6.0,498.3
+R010,Omar Cole,W01,West,H-W01-040,Glucanorm,2026-07-12,No Show,1.4,498.3
+R003,Priya Chen,N03,North,H-N03-014,Respiraline,2026-07-13,Sample Drop,11.9,240.2
+R003,Priya Chen,N03,North,H-N03-018,Cardiavex,2026-07-13,Sample Drop,12.0,240.2
+R004,Sam Ortiz,S01,South,H-S01-002,Glucanorm,2026-07-13,Discussion Completed,7.4,77.2
+R005,Morgan Novak,S02,South,H-S02-024,Respiraline,2026-07-13,Sample Drop,9.8,91.3
+R006,Taylor Singh,S03,South,H-S03-025,Glucanorm,2026-07-13,Completed,15.2,185.7
+R007,Chris Brooks,E01,East,H-E01-031,Glucanorm,2026-07-13,Completed,12.8,147.4
+R008,Riley Fischer,E02,East,H-E02-040,Cardiavex,2026-07-13,Rescheduled,2.6,109.2
+R009,Nina Adeyemi,E03,East,H-E03-005,Respiraline,2026-07-13,Sample Drop,11.8,211.0
+R009,Nina Adeyemi,E03,East,H-E03-018,Respiraline,2026-07-13,Discussion Completed,18.8,211.0
+R010,Omar Cole,W01,West,H-W01-018,Respiraline,2026-07-13,No Show,2.6,498.3
+R010,Omar Cole,W01,West,H-W01-021,Cardiavex,2026-07-13,Rescheduled,5.4,498.3
+R010,Omar Cole,W01,West,H-W01-035,Cardiavex,2026-07-13,Discussion Completed,19.1,498.3
+R010,Omar Cole,W01,West,H-W01-016,Cardiavex,2026-07-13,Sample Drop,20.7,498.3
+R002,Jordan Kapoor,N02,North,H-N02-010,Glucanorm,2026-07-14,No Show,0.9,100.3
+R003,Priya Chen,N03,North,H-N03-013,Respiraline,2026-07-14,Rescheduled,4.9,240.2
+R004,Sam Ortiz,S01,South,H-S01-005,Respiraline,2026-07-14,Rescheduled,2.3,77.2
+R005,Morgan Novak,S02,South,H-S02-030,Glucanorm,2026-07-14,Rescheduled,2.9,91.3
+R007,Chris Brooks,E01,East,H-E01-015,Respiraline,2026-07-14,No Show,1.4,147.4
+R008,Riley Fischer,E02,East,H-E02-018,Cardiavex,2026-07-14,Rescheduled,3.0,109.2
+R009,Nina Adeyemi,E03,East,H-E03-002,Cardiavex,2026-07-14,Sample Drop,11.2,211.0
+R009,Nina Adeyemi,E03,East,H-E03-017,Glucanorm,2026-07-14,Completed,18.7,211.0
+R010,Omar Cole,W01,West,H-W01-025,Respiraline,2026-07-14,No Show,3.9,498.3
+R010,Omar Cole,W01,West,H-W01-003,Respiraline,2026-07-14,No Show,5.8,498.3
+R011,Lee Park,W02,West,H-W02-013,Glucanorm,2026-07-14,Rescheduled,2.6,37.9
+R001,Alex Reed,N01,North,H-N01-022,Cardiavex,2026-07-15,Rescheduled,2.0,77.8
+R001,Alex Reed,N01,North,H-N01-013,Cardiavex,2026-07-15,Sample Drop,4.6,77.8
+R002,Jordan Kapoor,N02,North,H-N02-023,Glucanorm,2026-07-15,No Show,3.0,100.3
+R002,Jordan Kapoor,N02,North,H-N02-015,Cardiavex,2026-07-15,Rescheduled,3.7,100.3
+R003,Priya Chen,N03,North,H-N03-027,Cardiavex,2026-07-15,Sample Drop,5.7,240.2
+R003,Priya Chen,N03,North,H-N03-007,Glucanorm,2026-07-15,No Show,3.5,240.2
+R004,Sam Ortiz,S01,South,H-S01-016,Respiraline,2026-07-15,Sample Drop,3.8,77.2
+R005,Morgan Novak,S02,South,H-S02-019,Cardiavex,2026-07-15,Completed,10.3,91.3
+R006,Taylor Singh,S03,South,H-S03-018,Respiraline,2026-07-15,Discussion Completed,19.3,185.7
+R008,Riley Fischer,E02,East,H-E02-001,Respiraline,2026-07-15,Rescheduled,1.6,109.2
+R010,Omar Cole,W01,West,H-W01-008,Respiraline,2026-07-15,No Show,3.0,498.3
+R010,Omar Cole,W01,West,H-W01-005,Glucanorm,2026-07-15,No Show,1.5,498.3
+R010,Omar Cole,W01,West,H-W01-035,Cardiavex,2026-07-15,Completed,21.6,498.3
+R010,Omar Cole,W01,West,H-W01-032,Cardiavex,2026-07-15,Completed,5.8,498.3
+R011,Lee Park,W02,West,H-W02-015,Cardiavex,2026-07-15,No Show,1.3,37.9
+R011,Lee Park,W02,West,H-W02-011,Respiraline,2026-07-15,Rescheduled,2.5,37.9
+R001,Alex Reed,N01,North,H-N01-029,Cardiavex,2026-07-16,Rescheduled,2.9,77.8
+R003,Priya Chen,N03,North,H-N03-022,Glucanorm,2026-07-16,No Show,2.6,240.2
+R004,Sam Ortiz,S01,South,H-S01-023,Cardiavex,2026-07-16,Sample Drop,3.2,77.2
+R004,Sam Ortiz,S01,South,H-S01-031,Cardiavex,2026-07-16,Rescheduled,1.8,77.2
+R005,Morgan Novak,S02,South,H-S02-005,Glucanorm,2026-07-16,Rescheduled,3.9,91.3
+R006,Taylor Singh,S03,South,H-S03-006,Cardiavex,2026-07-16,Discussion Completed,9.4,185.7
+R006,Taylor Singh,S03,South,H-S03-024,Cardiavex,2026-07-16,Completed,16.4,185.7
+R009,Nina Adeyemi,E03,East,H-E03-007,Respiraline,2026-07-16,Rescheduled,2.5,211.0
+R001,Alex Reed,N01,North,H-N01-004,Respiraline,2026-07-17,Rescheduled,1.6,77.8
+R001,Alex Reed,N01,North,H-N01-014,Respiraline,2026-07-17,Rescheduled,1.9,77.8
+R003,Priya Chen,N03,North,H-N03-008,Respiraline,2026-07-17,No Show,3.2,240.2
+R005,Morgan Novak,S02,South,H-S02-004,Glucanorm,2026-07-17,Rescheduled,3.8,91.3
+R006,Taylor Singh,S03,South,H-S03-013,Cardiavex,2026-07-17,Discussion Completed,11.0,185.7
+R007,Chris Brooks,E01,East,H-E01-006,Cardiavex,2026-07-17,Rescheduled,4.9,147.4
+R007,Chris Brooks,E01,East,H-E01-009,Glucanorm,2026-07-17,Completed,5.0,147.4
+R007,Chris Brooks,E01,East,H-E01-020,Cardiavex,2026-07-17,Discussion Completed,11.8,147.4
+R007,Chris Brooks,E01,East,H-E01-022,Respiraline,2026-07-17,Rescheduled,1.8,147.4
+R008,Riley Fischer,E02,East,H-E02-033,Glucanorm,2026-07-17,No Show,4.1,109.2
+R008,Riley Fischer,E02,East,H-E02-039,Cardiavex,2026-07-17,Rescheduled,1.2,109.2
+R009,Nina Adeyemi,E03,East,H-E03-001,Cardiavex,2026-07-17,Rescheduled,5.0,211.0
+R009,Nina Adeyemi,E03,East,H-E03-025,Glucanorm,2026-07-17,Completed,6.6,211.0
+R009,Nina Adeyemi,E03,East,H-E03-026,Cardiavex,2026-07-17,Rescheduled,1.7,211.0
+R009,Nina Adeyemi,E03,East,H-E03-024,Cardiavex,2026-07-17,Sample Drop,5.8,211.0
+R010,Omar Cole,W01,West,H-W01-032,Glucanorm,2026-07-17,Sample Drop,18.1,498.3
+R001,Alex Reed,N01,North,H-N01-011,Respiraline,2026-07-18,Sample Drop,10.6,77.8
+R002,Jordan Kapoor,N02,North,H-N02-009,Respiraline,2026-07-18,Sample Drop,11.1,100.3
+R002,Jordan Kapoor,N02,North,H-N02-022,Cardiavex,2026-07-18,Discussion Completed,10.0,100.3
+R002,Jordan Kapoor,N02,North,H-N02-006,Cardiavex,2026-07-18,Completed,6.4,100.3
+R003,Priya Chen,N03,North,H-N03-010,Respiraline,2026-07-18,Sample Drop,10.3,240.2
+R003,Priya Chen,N03,North,H-N03-010,Respiraline,2026-07-18,Discussion Completed,12.6,240.2
+R006,Taylor Singh,S03,South,H-S03-008,Glucanorm,2026-07-18,Discussion Completed,12.8,185.7
+R006,Taylor Singh,S03,South,H-S03-010,Cardiavex,2026-07-18,Discussion Completed,9.0,185.7
+R006,Taylor Singh,S03,South,H-S03-020,Cardiavex,2026-07-18,No Show,1.8,185.7
+R007,Chris Brooks,E01,East,H-E01-027,Glucanorm,2026-07-18,Rescheduled,4.5,147.4
+R007,Chris Brooks,E01,East,H-E01-008,Glucanorm,2026-07-18,No Show,2.8,147.4
+R008,Riley Fischer,E02,East,H-E02-039,Glucanorm,2026-07-18,Rescheduled,2.9,109.2
+R008,Riley Fischer,E02,East,H-E02-012,Cardiavex,2026-07-18,Completed,2.9,109.2
+R010,Omar Cole,W01,West,H-W01-002,Respiraline,2026-07-18,Discussion Completed,6.1,498.3
+R010,Omar Cole,W01,West,H-W01-029,Cardiavex,2026-07-18,No Show,6.6,498.3
+R010,Omar Cole,W01,West,H-W01-033,Glucanorm,2026-07-18,Completed,8.2,498.3
+R011,Lee Park,W02,West,H-W02-024,Cardiavex,2026-07-18,No Show,1.3,37.9
+R001,Alex Reed,N01,North,H-N01-010,Glucanorm,2026-07-19,Discussion Completed,6.6,77.8
+R004,Sam Ortiz,S01,South,H-S01-021,Cardiavex,2026-07-19,Rescheduled,2.5,77.2
+R005,Morgan Novak,S02,South,H-S02-012,Glucanorm,2026-07-19,Sample Drop,4.2,91.3
+R006,Taylor Singh,S03,South,H-S03-015,Glucanorm,2026-07-19,No Show,3.3,185.7
+R006,Taylor Singh,S03,South,H-S03-032,Respiraline,2026-07-19,No Show,3.5,185.7
+R007,Chris Brooks,E01,East,H-E01-018,Glucanorm,2026-07-19,Rescheduled,4.1,147.4
+R007,Chris Brooks,E01,East,H-E01-028,Respiraline,2026-07-19,Sample Drop,13.9,147.4
+R010,Omar Cole,W01,West,H-W01-015,Respiraline,2026-07-19,No Show,2.6,498.3
+R010,Omar Cole,W01,West,H-W01-007,Cardiavex,2026-07-19,Rescheduled,6.4,498.3
+R001,Alex Reed,N01,North,H-N01-024,Cardiavex,2026-07-20,No Show,1.9,77.8
+R001,Alex Reed,N01,North,H-N01-028,Glucanorm,2026-07-20,Rescheduled,2.3,77.8
+R002,Jordan Kapoor,N02,North,H-N02-012,Cardiavex,2026-07-20,Completed,8.8,100.3
+R004,Sam Ortiz,S01,South,H-S01-029,Respiraline,2026-07-20,Discussion Completed,7.9,77.2
+R006,Taylor Singh,S03,South,H-S03-031,Cardiavex,2026-07-20,Discussion Completed,9.1,185.7
+R008,Riley Fischer,E02,East,H-E02-005,Cardiavex,2026-07-20,No Show,3.6,109.2
+R008,Riley Fischer,E02,East,H-E02-029,Respiraline,2026-07-20,Rescheduled,4.0,109.2
+R010,Omar Cole,W01,West,H-W01-022,Respiraline,2026-07-20,Completed,7.0,498.3
+R010,Omar Cole,W01,West,H-W01-006,Glucanorm,2026-07-20,Sample Drop,19.4,498.3
+R010,Omar Cole,W01,West,H-W01-013,Respiraline,2026-07-20,Discussion Completed,19.2,498.3
+R001,Alex Reed,N01,North,H-N01-017,Cardiavex,2026-07-21,Rescheduled,2.7,77.8
+R002,Jordan Kapoor,N02,North,H-N02-018,Cardiavex,2026-07-21,Rescheduled,1.0,100.3
+R003,Priya Chen,N03,North,H-N03-013,Glucanorm,2026-07-21,Sample Drop,17.8,240.2
+R006,Taylor Singh,S03,South,H-S03-030,Cardiavex,2026-07-21,Rescheduled,5.0,185.7
+R006,Taylor Singh,S03,South,H-S03-016,Cardiavex,2026-07-21,No Show,2.0,185.7
+R008,Riley Fischer,E02,East,H-E02-034,Cardiavex,2026-07-21,Rescheduled,3.8,109.2
+R010,Omar Cole,W01,West,H-W01-019,Respiraline,2026-07-21,Sample Drop,13.9,498.3
+R010,Omar Cole,W01,West,H-W01-026,Glucanorm,2026-07-21,Sample Drop,20.3,498.3
+R002,Jordan Kapoor,N02,North,H-N02-019,Glucanorm,2026-07-22,Discussion Completed,3.5,100.3
+R003,Priya Chen,N03,North,H-N03-007,Glucanorm,2026-07-22,Sample Drop,17.7,240.2
+R004,Sam Ortiz,S01,South,H-S01-027,Respiraline,2026-07-22,Rescheduled,1.1,77.2
+R009,Nina Adeyemi,E03,East,H-E03-009,Respiraline,2026-07-22,Sample Drop,13.7,211.0
+R010,Omar Cole,W01,West,H-W01-031,Respiraline,2026-07-22,Discussion Completed,17.7,498.3
+R004,Sam Ortiz,S01,South,H-S01-030,Cardiavex,2026-07-23,Rescheduled,2.8,77.2
+R004,Sam Ortiz,S01,South,H-S01-010,Glucanorm,2026-07-23,Rescheduled,1.7,77.2
+R004,Sam Ortiz,S01,South,H-S01-031,Cardiavex,2026-07-23,Rescheduled,1.5,77.2
+R005,Morgan Novak,S02,South,H-S02-006,Glucanorm,2026-07-23,No Show,3.6,91.3
+R006,Taylor Singh,S03,South,H-S03-027,Glucanorm,2026-07-23,No Show,5.8,185.7
+R007,Chris Brooks,E01,East,H-E01-012,Cardiavex,2026-07-23,Rescheduled,2.8,147.4
+R009,Nina Adeyemi,E03,East,H-E03-027,Respiraline,2026-07-23,Discussion Completed,6.8,211.0
+R009,Nina Adeyemi,E03,East,H-E03-021,Cardiavex,2026-07-23,Rescheduled,4.7,211.0
+R010,Omar Cole,W01,West,H-W01-027,Respiraline,2026-07-23,Completed,22.9,498.3
+R010,Omar Cole,W01,West,H-W01-005,Respiraline,2026-07-23,Completed,13.5,498.3
+R010,Omar Cole,W01,West,H-W01-039,Cardiavex,2026-07-23,Rescheduled,1.4,498.3
+R010,Omar Cole,W01,West,H-W01-029,Respiraline,2026-07-23,Rescheduled,2.8,498.3
+R010,Omar Cole,W01,West,H-W01-015,Cardiavex,2026-07-23,Completed,8.3,498.3
+R011,Lee Park,W02,West,H-W02-021,Respiraline,2026-07-23,Rescheduled,2.9,37.9
+R002,Jordan Kapoor,N02,North,H-N02-004,Respiraline,2026-07-24,Rescheduled,2.2,100.3
+R003,Priya Chen,N03,North,H-N03-024,Respiraline,2026-07-24,Rescheduled,2.3,240.2
+R004,Sam Ortiz,S01,South,H-S01-022,Respiraline,2026-07-24,Completed,3.6,77.2
+R005,Morgan Novak,S02,South,H-S02-028,Cardiavex,2026-07-24,Rescheduled,1.4,91.3
+R006,Taylor Singh,S03,South,H-S03-031,Respiraline,2026-07-24,Rescheduled,2.9,185.7
+R010,Omar Cole,W01,West,H-W01-040,Respiraline,2026-07-24,Sample Drop,21.7,498.3
+R010,Omar Cole,W01,West,H-W01-038,Cardiavex,2026-07-24,Rescheduled,6.1,498.3
+R011,Lee Park,W02,West,H-W02-007,Cardiavex,2026-07-24,Rescheduled,1.2,37.9
+R003,Priya Chen,N03,North,H-N03-030,Respiraline,2026-07-25,Discussion Completed,9.5,240.2
+R003,Priya Chen,N03,North,H-N03-026,Cardiavex,2026-07-25,Rescheduled,4.3,240.2
+R003,Priya Chen,N03,North,H-N03-004,Respiraline,2026-07-25,Completed,14.0,240.2
+R005,Morgan Novak,S02,South,H-S02-006,Cardiavex,2026-07-25,No Show,1.4,91.3
+R006,Taylor Singh,S03,South,H-S03-023,Glucanorm,2026-07-25,No Show,3.2,185.7
+R008,Riley Fischer,E02,East,H-E02-008,Respiraline,2026-07-25,Sample Drop,10.5,109.2
+R009,Nina Adeyemi,E03,East,H-E03-028,Glucanorm,2026-07-25,Rescheduled,4.7,211.0
+R011,Lee Park,W02,West,H-W02-011,Cardiavex,2026-07-25,Sample Drop,8.7,37.9
+R001,Alex Reed,N01,North,H-N01-022,Respiraline,2026-07-26,No Show,1.1,77.8
+R002,Jordan Kapoor,N02,North,H-N02-008,Glucanorm,2026-07-26,Rescheduled,2.6,100.3
+R002,Jordan Kapoor,N02,North,H-N02-020,Cardiavex,2026-07-26,Rescheduled,3.5,100.3
+R002,Jordan Kapoor,N02,North,H-N02-012,Cardiavex,2026-07-26,Discussion Completed,4.2,100.3
+R004,Sam Ortiz,S01,South,H-S01-014,Respiraline,2026-07-26,Rescheduled,3.1,77.2
+R005,Morgan Novak,S02,South,H-S02-027,Respiraline,2026-07-26,Discussion Completed,11.6,91.3
+R005,Morgan Novak,S02,South,H-S02-029,Cardiavex,2026-07-26,No Show,2.9,91.3
+R005,Morgan Novak,S02,South,H-S02-011,Cardiavex,2026-07-26,Completed,6.9,91.3
+R006,Taylor Singh,S03,South,H-S03-028,Glucanorm,2026-07-26,No Show,2.5,185.7
+R006,Taylor Singh,S03,South,H-S03-023,Respiraline,2026-07-26,Rescheduled,1.7,185.7
+R006,Taylor Singh,S03,South,H-S03-021,Respiraline,2026-07-26,No Show,3.1,185.7
+R008,Riley Fischer,E02,East,H-E02-033,Glucanorm,2026-07-26,Rescheduled,1.4,109.2
+R010,Omar Cole,W01,West,H-W01-023,Respiraline,2026-07-26,Sample Drop,16.2,498.3
+R011,Lee Park,W02,West,H-W02-015,Glucanorm,2026-07-26,Rescheduled,1.7,37.9
+R001,Alex Reed,N01,North,H-N01-004,Cardiavex,2026-07-27,No Show,2.5,77.8
+R002,Jordan Kapoor,N02,North,H-N02-021,Glucanorm,2026-07-27,Sample Drop,11.1,100.3
+R003,Priya Chen,N03,North,H-N03-021,Glucanorm,2026-07-27,Rescheduled,2.4,240.2
+R006,Taylor Singh,S03,South,H-S03-009,Respiraline,2026-07-27,Rescheduled,1.3,185.7
+R006,Taylor Singh,S03,South,H-S03-032,Cardiavex,2026-07-27,Completed,15.2,185.7
+R007,Chris Brooks,E01,East,H-E01-022,Glucanorm,2026-07-27,No Show,5.3,147.4
+R008,Riley Fischer,E02,East,H-E02-009,Glucanorm,2026-07-27,Completed,7.2,109.2
+R009,Nina Adeyemi,E03,East,H-E03-012,Cardiavex,2026-07-27,Discussion Completed,19.2,211.0
+R010,Omar Cole,W01,West,H-W01-014,Glucanorm,2026-07-27,No Show,5.1,498.3
+R010,Omar Cole,W01,West,H-W01-036,Glucanorm,2026-07-27,Completed,9.1,498.3
+R001,Alex Reed,N01,North,H-N01-002,Cardiavex,2026-08-01,Rescheduled,3.3,51.2
+R001,Alex Reed,N01,North,H-N01-013,Respiraline,2026-08-01,No Show,2.5,51.2
+R002,Jordan Kapoor,N02,North,H-N02-024,Respiraline,2026-08-01,Rescheduled,3.6,67.1
+R003,Priya Chen,N03,North,H-N03-030,Cardiavex,2026-08-01,Discussion Completed,17.3,261.7
+R004,Sam Ortiz,S01,South,H-S01-022,Cardiavex,2026-08-01,Rescheduled,2.8,66.8
+R005,Morgan Novak,S02,South,H-S02-007,Glucanorm,2026-08-01,Discussion Completed,13.3,106.5
+R008,Riley Fischer,E02,East,H-E02-017,Cardiavex,2026-08-01,No Show,3.0,111.6
+R010,Omar Cole,W01,West,H-W01-010,Glucanorm,2026-08-01,Completed,5.2,478.4
+R010,Omar Cole,W01,West,H-W01-040,Cardiavex,2026-08-01,No Show,3.5,478.4
+R010,Omar Cole,W01,West,H-W01-010,Glucanorm,2026-08-01,Completed,5.2,478.4
+R011,Lee Park,W02,West,H-W02-018,Respiraline,2026-08-01,No Show,2.5,24.4
+R003,Priya Chen,N03,North,H-N03-010,Respiraline,2026-08-02,Sample Drop,10.6,261.7
+R003,Priya Chen,N03,North,H-N03-006,Cardiavex,2026-08-02,No Show,2.9,261.7
+R003,Priya Chen,N03,North,H-N03-012,Glucanorm,2026-08-02,No Show,4.6,261.7
+R003,Priya Chen,N03,North,H-N03-008,Glucanorm,2026-08-02,Discussion Completed,10.4,261.7
+R004,Sam Ortiz,S01,South,H-S01-033,Glucanorm,2026-08-02,Rescheduled,2.9,66.8
+R005,Morgan Novak,S02,South,H-S02-013,Glucanorm,2026-08-02,Rescheduled,3.1,106.5
+R006,Taylor Singh,S03,South,H-S03-010,Glucanorm,2026-08-02,No Show,1.8,154.9
+R007,Chris Brooks,E01,East,H-E01-009,Glucanorm,2026-08-02,No Show,2.7,102.8
+R008,Riley Fischer,E02,East,H-E02-011,Glucanorm,2026-08-02,Rescheduled,1.3,111.6
+R008,Riley Fischer,E02,East,H-E02-033,Respiraline,2026-08-02,Discussion Completed,5.4,111.6
+R008,Riley Fischer,E02,East,H-E02-007,Cardiavex,2026-08-02,No Show,2.4,111.6
+R009,Nina Adeyemi,E03,East,H-E03-007,Glucanorm,2026-08-02,Sample Drop,16.7,259.4
+R010,Omar Cole,W01,West,H-W01-033,Glucanorm,2026-08-02,Rescheduled,6.3,478.4
+R011,Lee Park,W02,West,H-W02-009,Glucanorm,2026-08-02,Rescheduled,2.5,24.4
+R002,Jordan Kapoor,N02,North,H-N02-017,Cardiavex,2026-08-03,Completed,7.6,67.1
+R003,Priya Chen,N03,North,H-N03-024,Cardiavex,2026-08-03,Completed,18.1,261.7
+R003,Priya Chen,N03,North,H-N03-028,Respiraline,2026-08-03,Rescheduled,4.2,261.7
+R003,Priya Chen,N03,North,H-N03-001,Glucanorm,2026-08-03,No Show,1.2,261.7
+R004,Sam Ortiz,S01,South,H-S01-033,Cardiavex,2026-08-03,Rescheduled,2.7,66.8
+R005,Morgan Novak,S02,South,H-S02-009,Glucanorm,2026-08-03,No Show,1.5,106.5
+R006,Taylor Singh,S03,South,H-S03-032,Cardiavex,2026-08-03,Discussion Completed,15.1,154.9
+R006,Taylor Singh,S03,South,H-S03-006,Cardiavex,2026-08-03,Sample Drop,12.7,154.9
+R007,Chris Brooks,E01,East,H-E01-030,Cardiavex,2026-08-03,Discussion Completed,12.1,102.8
+R010,Omar Cole,W01,West,H-W01-014,Respiraline,2026-08-03,Discussion Completed,14.9,478.4
+R002,Jordan Kapoor,N02,North,H-N02-002,Respiraline,2026-08-04,No Show,3.8,67.1
+R002,Jordan Kapoor,N02,North,H-N02-013,Respiraline,2026-08-04,Rescheduled,1.6,67.1
+R004,Sam Ortiz,S01,South,H-S01-020,Respiraline,2026-08-04,Rescheduled,2.6,66.8
+R008,Riley Fischer,E02,East,H-E02-021,Respiraline,2026-08-04,Completed,10.9,111.6
+R009,Nina Adeyemi,E03,East,H-E03-030,Cardiavex,2026-08-04,Rescheduled,2.8,259.4
+R009,Nina Adeyemi,E03,East,H-E03-001,Glucanorm,2026-08-04,Rescheduled,1.5,259.4
+R010,Omar Cole,W01,West,H-W01-010,Cardiavex,2026-08-04,Sample Drop,16.5,478.4
+R010,Omar Cole,W01,West,H-W01-022,Glucanorm,2026-08-04,Completed,13.2,478.4
+R001,Alex Reed,N01,North,H-N01-018,Cardiavex,2026-08-05,No Show,0.8,51.2
+R001,Alex Reed,N01,North,H-N01-030,Cardiavex,2026-08-05,Rescheduled,2.2,51.2
+R003,Priya Chen,N03,North,H-N03-019,Cardiavex,2026-08-05,Discussion Completed,9.6,261.7
+R003,Priya Chen,N03,North,H-N03-015,Glucanorm,2026-08-05,No Show,2.3,261.7
+R003,Priya Chen,N03,North,H-N03-027,Respiraline,2026-08-05,Sample Drop,18.2,261.7
+R005,Morgan Novak,S02,South,H-S02-032,Glucanorm,2026-08-05,No Show,1.9,106.5
+R007,Chris Brooks,E01,East,H-E01-008,Cardiavex,2026-08-05,Discussion Completed,6.1,102.8
+R007,Chris Brooks,E01,East,H-E01-016,Respiraline,2026-08-05,Rescheduled,1.2,102.8
+R008,Riley Fischer,E02,East,H-E02-016,Cardiavex,2026-08-05,Rescheduled,2.4,111.6
+R010,Omar Cole,W01,West,H-W01-001,Cardiavex,2026-08-05,Rescheduled,4.4,478.4
+R012,Dana Hughes,W03,West,H-W03-005,Respiraline,2026-08-05,Completed,22.4,34.6
+R003,Priya Chen,N03,North,H-N03-026,Respiraline,2026-08-06,Discussion Completed,15.0,261.7
+R004,Sam Ortiz,S01,South,H-S01-004,Respiraline,2026-08-06,Rescheduled,2.5,66.8
+R004,Sam Ortiz,S01,South,H-S01-009,Glucanorm,2026-08-06,Rescheduled,1.4,66.8
+R005,Morgan Novak,S02,South,H-S02-002,Respiraline,2026-08-06,Completed,9.3,106.5
+R006,Taylor Singh,S03,South,H-S03-029,Glucanorm,2026-08-06,Sample Drop,13.9,154.9
+R007,Chris Brooks,E01,East,H-E01-013,Respiraline,2026-08-06,No Show,4.9,102.8
+R008,Riley Fischer,E02,East,H-E02-028,Cardiavex,2026-08-06,Rescheduled,1.3,111.6
+R008,Riley Fischer,E02,East,H-E02-007,Cardiavex,2026-08-06,No Show,3.6,111.6
+R009,Nina Adeyemi,E03,East,H-E03-026,Glucanorm,2026-08-06,Sample Drop,11.7,259.4
+R009,Nina Adeyemi,E03,East,H-E03-029,Respiraline,2026-08-06,No Show,4.5,259.4
+R010,Omar Cole,W01,West,H-W01-005,Respiraline,2026-08-06,Sample Drop,17.7,478.4
+R001,Alex Reed,N01,North,H-N01-015,Glucanorm,2026-08-07,Rescheduled,2.7,51.2
+R002,Jordan Kapoor,N02,North,H-N02-005,Cardiavex,2026-08-07,Rescheduled,2.2,67.1
+R003,Priya Chen,N03,North,H-N03-009,Glucanorm,2026-08-07,Discussion Completed,15.8,261.7
+R005,Morgan Novak,S02,South,H-S02-009,Cardiavex,2026-08-07,No Show,1.0,106.5
+R006,Taylor Singh,S03,South,H-S03-024,Cardiavex,2026-08-07,Discussion Completed,16.2,154.9
+R006,Taylor Singh,S03,South,H-S03-016,Respiraline,2026-08-07,No Show,2.5,154.9
+R007,Chris Brooks,E01,East,H-E01-011,Cardiavex,2026-08-07,Rescheduled,2.1,102.8
+R008,Riley Fischer,E02,East,H-E02-043,Cardiavex,2026-08-07,Rescheduled,3.9,111.6
+R010,Omar Cole,W01,West,H-W01-029,Respiraline,2026-08-07,Sample Drop,7.6,478.4
+R010,Omar Cole,W01,West,H-W01-007,Cardiavex,2026-08-07,Rescheduled,7.0,478.4
+R010,Omar Cole,W01,West,H-W01-013,Respiraline,2026-08-07,Discussion Completed,19.4,478.4
+R011,Lee Park,W02,West,H-W02-024,Glucanorm,2026-08-07,Rescheduled,2.6,24.4
+R001,Alex Reed,N01,North,H-N01-014,Glucanorm,2026-08-08,Rescheduled,1.8,51.2
+R001,Alex Reed,N01,North,H-N01-030,Respiraline,2026-08-08,Completed,3.5,51.2
+R003,Priya Chen,N03,North,H-N03-016,Cardiavex,2026-08-08,Sample Drop,10.2,261.7
+R005,Morgan Novak,S02,South,H-S02-031,Respiraline,2026-08-08,No Show,1.0,106.5
+R006,Taylor Singh,S03,South,H-S03-030,Cardiavex,2026-08-08,Sample Drop,4.9,154.9
+R010,Omar Cole,W01,West,H-W01-031,Cardiavex,2026-08-08,Completed,20.5,478.4
+R002,Jordan Kapoor,N02,North,H-N02-017,Respiraline,2026-08-09,Completed,13.0,67.1
+R005,Morgan Novak,S02,South,H-S02-021,Cardiavex,2026-08-09,Rescheduled,3.4,106.5
+R007,Chris Brooks,E01,East,H-E01-028,Glucanorm,2026-08-09,Rescheduled,4.3,102.8
+R010,Omar Cole,W01,West,H-W01-031,Glucanorm,2026-08-09,Rescheduled,6.2,478.4
+R010,Omar Cole,W01,West,H-W01-039,Cardiavex,2026-08-09,No Show,2.1,478.4
+R002,Jordan Kapoor,N02,North,H-N02-009,Respiraline,2026-08-10,Rescheduled,2.3,67.1
+R002,Jordan Kapoor,N02,North,H-N02-015,Respiraline,2026-08-10,Discussion Completed,5.1,67.1
+R004,Sam Ortiz,S01,South,H-S01-017,Respiraline,2026-08-10,Sample Drop,8.7,66.8
+R005,Morgan Novak,S02,South,H-S02-004,Respiraline,2026-08-10,No Show,2.8,106.5
+R009,Nina Adeyemi,E03,East,H-E03-025,Cardiavex,2026-08-10,No Show,3.5,259.4
+R009,Nina Adeyemi,E03,East,H-E03-022,Respiraline,2026-08-10,Rescheduled,1.5,259.4
+R009,Nina Adeyemi,E03,East,H-E03-022,Cardiavex,2026-08-10,Completed,12.4,259.4
+R009,Nina Adeyemi,E03,East,H-E03-011,Respiraline,2026-08-10,Sample Drop,10.3,259.4
+R010,Omar Cole,W01,West,H-W01-007,Respiraline,2026-08-10,Rescheduled,6.2,478.4
+R011,Lee Park,W02,West,H-W02-010,Glucanorm,2026-08-10,Rescheduled,2.1,24.4
+R012,Dana Hughes,W03,West,H-W03-004,Cardiavex,2026-08-10,Rescheduled,2.4,34.6
+R001,Alex Reed,N01,North,H-N01-028,Glucanorm,2026-08-11,Rescheduled,2.6,51.2
+R003,Priya Chen,N03,North,H-N03-021,Respiraline,2026-08-11,Sample Drop,7.4,261.7
+R003,Priya Chen,N03,North,H-N03-007,Respiraline,2026-08-11,Discussion Completed,3.8,261.7
+R004,Sam Ortiz,S01,South,H-S01-013,Cardiavex,2026-08-11,Sample Drop,3.8,66.8
+R007,Chris Brooks,E01,East,H-E01-013,Cardiavex,2026-08-11,Discussion Completed,15.5,102.8
+R008,Riley Fischer,E02,East,H-E02-011,Respiraline,2026-08-11,No Show,0.8,111.6
+R010,Omar Cole,W01,West,H-W01-023,Respiraline,2026-08-11,No Show,6.8,478.4
+R010,Omar Cole,W01,West,H-W01-017,Cardiavex,2026-08-11,Discussion Completed,21.9,478.4
+R011,Lee Park,W02,West,H-W02-020,Cardiavex,2026-08-11,Sample Drop,3.5,24.4
+R001,Alex Reed,N01,North,H-N01-002,Respiraline,2026-08-12,Completed,2.6,51.2
+R002,Jordan Kapoor,N02,North,H-N02-004,Respiraline,2026-08-12,No Show,1.0,67.1
+R003,Priya Chen,N03,North,H-N03-027,Glucanorm,2026-08-12,Discussion Completed,14.8,261.7
+R006,Taylor Singh,S03,South,H-S03-009,Glucanorm,2026-08-12,No Show,2.1,154.9
+R006,Taylor Singh,S03,South,H-S03-020,Respiraline,2026-08-12,Sample Drop,4.3,154.9
+R008,Riley Fischer,E02,East,H-E02-025,Glucanorm,2026-08-12,Sample Drop,3.4,111.6
+R008,Riley Fischer,E02,East,H-E02-042,Respiraline,2026-08-12,Rescheduled,2.3,111.6
+R009,Nina Adeyemi,E03,East,H-E03-010,Respiraline,2026-08-12,Completed,7.8,259.4
+R009,Nina Adeyemi,E03,East,H-E03-008,Cardiavex,2026-08-12,Completed,15.7,259.4
+R010,Omar Cole,W01,West,H-W01-037,Cardiavex,2026-08-12,Completed,8.4,478.4
+R010,Omar Cole,W01,West,H-W01-019,Respiraline,2026-08-12,Rescheduled,6.9,478.4
+R010,Omar Cole,W01,West,H-W01-024,Glucanorm,2026-08-12,No Show,2.9,478.4
+R010,Omar Cole,W01,West,H-W01-039,Glucanorm,2026-08-12,Completed,8.4,478.4
+R010,Omar Cole,W01,West,H-W01-011,Glucanorm,2026-08-12,Rescheduled,6.7,478.4
+R011,Lee Park,W02,West,H-W02-005,Glucanorm,2026-08-12,Rescheduled,2.3,24.4
+R011,Lee Park,W02,West,H-W02-006,Glucanorm,2026-08-12,Rescheduled,2.3,24.4
+R001,Alex Reed,N01,North,H-N01-007,Glucanorm,2026-08-13,Rescheduled,1.5,51.2
+R001,Alex Reed,N01,North,H-N01-011,Respiraline,2026-08-13,Rescheduled,0.7,51.2
+R001,Alex Reed,N01,North,H-N01-013,Respiraline,2026-08-13,Rescheduled,1.2,51.2
+R002,Jordan Kapoor,N02,North,H-N02-014,Cardiavex,2026-08-13,Rescheduled,1.9,67.1
+R003,Priya Chen,N03,North,H-N03-017,Respiraline,2026-08-13,Completed,6.9,261.7
+R003,Priya Chen,N03,North,H-N03-033,Glucanorm,2026-08-13,Sample Drop,4.8,261.7
+R005,Morgan Novak,S02,South,H-S02-033,Cardiavex,2026-08-13,Sample Drop,5.6,106.5
+R007,Chris Brooks,E01,East,H-E01-027,Respiraline,2026-08-13,No Show,3.8,102.8
+R007,Chris Brooks,E01,East,H-E01-010,Cardiavex,2026-08-13,Discussion Completed,15.4,102.8
+R008,Riley Fischer,E02,East,H-E02-033,Respiraline,2026-08-13,Discussion Completed,6.2,111.6
+R009,Nina Adeyemi,E03,East,H-E03-023,Glucanorm,2026-08-13,Rescheduled,3.9,259.4
+R003,Priya Chen,N03,North,H-N03-001,Respiraline,2026-08-14,Completed,18.3,261.7
+R005,Morgan Novak,S02,South,H-S02-034,Glucanorm,2026-08-14,Discussion Completed,8.9,106.5
+R007,Chris Brooks,E01,East,H-E01-012,Cardiavex,2026-08-14,No Show,5.1,102.8
+R007,Chris Brooks,E01,East,H-E01-030,Cardiavex,2026-08-14,Sample Drop,5.8,102.8
+R009,Nina Adeyemi,E03,East,H-E03-028,Glucanorm,2026-08-14,Discussion Completed,13.2,259.4
+R009,Nina Adeyemi,E03,East,H-E03-018,Cardiavex,2026-08-14,Discussion Completed,17.2,259.4
+R009,Nina Adeyemi,E03,East,H-E03-021,Respiraline,2026-08-14,Discussion Completed,11.1,259.4
+R009,Nina Adeyemi,E03,East,H-E03-027,Respiraline,2026-08-14,No Show,4.1,259.4
+R009,Nina Adeyemi,E03,East,H-E03-006,Respiraline,2026-08-14,Completed,7.2,259.4
+R010,Omar Cole,W01,West,H-W01-020,Glucanorm,2026-08-14,Completed,21.1,478.4
+R010,Omar Cole,W01,West,H-W01-012,Cardiavex,2026-08-14,No Show,2.1,478.4
+R011,Lee Park,W02,West,H-W02-027,Cardiavex,2026-08-14,No Show,1.6,24.4
+R002,Jordan Kapoor,N02,North,H-N02-019,Respiraline,2026-08-15,Rescheduled,1.0,67.1
+R003,Priya Chen,N03,North,H-N03-015,Respiraline,2026-08-15,No Show,3.4,261.7
+R003,Priya Chen,N03,North,H-N03-017,Glucanorm,2026-08-15,Rescheduled,4.3,261.7
+R006,Taylor Singh,S03,South,H-S03-007,Glucanorm,2026-08-15,Sample Drop,13.3,154.9
+R006,Taylor Singh,S03,South,H-S03-021,Respiraline,2026-08-15,Discussion Completed,15.1,154.9
+R009,Nina Adeyemi,E03,East,H-E03-017,Cardiavex,2026-08-15,Completed,12.7,259.4
+R010,Omar Cole,W01,West,H-W01-018,Respiraline,2026-08-15,Completed,5.4,478.4
+R010,Omar Cole,W01,West,H-W01-014,Cardiavex,2026-08-15,Discussion Completed,11.4,478.4
+R012,Dana Hughes,W03,West,H-W03-005,Cardiavex,2026-08-15,Completed,8.4,34.6
+R002,Jordan Kapoor,N02,North,H-N02-001,Glucanorm,2026-08-16,No Show,3.1,67.1
+R002,Jordan Kapoor,N02,North,H-N02-001,Glucanorm,2026-08-16,Rescheduled,1.1,67.1
+R003,Priya Chen,N03,North,H-N03-003,Glucanorm,2026-08-16,Completed,8.4,261.7
+R005,Morgan Novak,S02,South,H-S02-007,Glucanorm,2026-08-16,No Show,3.4,106.5
+R007,Chris Brooks,E01,East,H-E01-010,Glucanorm,2026-08-16,Rescheduled,2.9,102.8
+R009,Nina Adeyemi,E03,East,H-E03-013,Cardiavex,2026-08-16,Sample Drop,14.2,259.4
+R010,Omar Cole,W01,West,H-W01-038,Respiraline,2026-08-16,Completed,8.9,478.4
+R010,Omar Cole,W01,West,H-W01-027,Respiraline,2026-08-16,Rescheduled,1.8,478.4
+R010,Omar Cole,W01,West,H-W01-002,Glucanorm,2026-08-16,Discussion Completed,16.6,478.4
+R011,Lee Park,W02,West,H-W02-018,Glucanorm,2026-08-16,Rescheduled,3.1,24.4
+R004,Sam Ortiz,S01,South,H-S01-030,Respiraline,2026-08-17,Rescheduled,1.0,66.8
+R004,Sam Ortiz,S01,South,H-S01-028,Glucanorm,2026-08-17,Rescheduled,2.5,66.8
+R005,Morgan Novak,S02,South,H-S02-018,Respiraline,2026-08-17,Rescheduled,3.0,106.5
+R006,Taylor Singh,S03,South,H-S03-019,Respiraline,2026-08-17,Rescheduled,4.1,154.9
+R007,Chris Brooks,E01,East,H-E01-011,Respiraline,2026-08-17,Rescheduled,3.3,102.8
+R010,Omar Cole,W01,West,H-W01-033,Glucanorm,2026-08-17,No Show,2.6,478.4
+R010,Omar Cole,W01,West,H-W01-027,Respiraline,2026-08-17,Discussion Completed,11.7,478.4
+R010,Omar Cole,W01,West,H-W01-018,Glucanorm,2026-08-17,Rescheduled,3.9,478.4
+R002,Jordan Kapoor,N02,North,H-N02-003,Glucanorm,2026-08-18,Completed,6.7,67.1
+R002,Jordan Kapoor,N02,North,H-N02-025,Respiraline,2026-08-18,No Show,2.9,67.1
+R003,Priya Chen,N03,North,H-N03-005,Respiraline,2026-08-18,Sample Drop,10.2,261.7
+R003,Priya Chen,N03,North,H-N03-029,Cardiavex,2026-08-18,Sample Drop,6.3,261.7
+R004,Sam Ortiz,S01,South,H-S01-034,Respiraline,2026-08-18,Rescheduled,1.0,66.8
+R006,Taylor Singh,S03,South,H-S03-011,Glucanorm,2026-08-18,Completed,10.6,154.9
+R007,Chris Brooks,E01,East,H-E01-003,Respiraline,2026-08-18,Rescheduled,3.5,102.8
+R008,Riley Fischer,E02,East,H-E02-003,Cardiavex,2026-08-18,Discussion Completed,13.0,111.6
+R001,Alex Reed,N01,North,H-N01-023,Cardiavex,2026-08-19,No Show,2.9,51.2
+R002,Jordan Kapoor,N02,North,H-N02-006,Glucanorm,2026-08-19,Rescheduled,2.1,67.1
+R003,Priya Chen,N03,North,H-N03-005,Respiraline,2026-08-19,Discussion Completed,6.6,261.7
+R004,Sam Ortiz,S01,South,H-S01-024,Glucanorm,2026-08-19,Sample Drop,7.6,66.8
+R005,Morgan Novak,S02,South,H-S02-024,Glucanorm,2026-08-19,No Show,1.8,106.5
+R005,Morgan Novak,S02,South,H-S02-008,Cardiavex,2026-08-19,Rescheduled,3.8,106.5
+R005,Morgan Novak,S02,South,H-S02-008,Glucanorm,2026-08-19,Rescheduled,3.6,106.5
+R006,Taylor Singh,S03,South,H-S03-012,Glucanorm,2026-08-19,Rescheduled,1.9,154.9
+R007,Chris Brooks,E01,East,H-E01-028,Glucanorm,2026-08-19,Discussion Completed,10.2,102.8
+R009,Nina Adeyemi,E03,East,H-E03-007,Glucanorm,2026-08-19,Discussion Completed,9.9,259.4
+R009,Nina Adeyemi,E03,East,H-E03-002,Respiraline,2026-08-19,Discussion Completed,18.7,259.4
+R010,Omar Cole,W01,West,H-W01-032,Glucanorm,2026-08-19,Discussion Completed,19.5,478.4
+R002,Jordan Kapoor,N02,North,H-N02-006,Glucanorm,2026-08-20,Completed,9.7,67.1
+R005,Morgan Novak,S02,South,H-S02-027,Cardiavex,2026-08-20,Sample Drop,13.0,106.5
+R005,Morgan Novak,S02,South,H-S02-021,Glucanorm,2026-08-20,Rescheduled,1.2,106.5
+R006,Taylor Singh,S03,South,H-S03-005,Respiraline,2026-08-20,Rescheduled,4.1,154.9
+R006,Taylor Singh,S03,South,H-S03-024,Cardiavex,2026-08-20,Sample Drop,18.9,154.9
+R007,Chris Brooks,E01,East,H-E01-022,Cardiavex,2026-08-20,Completed,6.8,102.8
+R007,Chris Brooks,E01,East,H-E01-023,Glucanorm,2026-08-20,No Show,1.2,102.8
+R008,Riley Fischer,E02,East,H-E02-016,Respiraline,2026-08-20,Discussion Completed,4.2,111.6
+R009,Nina Adeyemi,E03,East,H-E03-015,Glucanorm,2026-08-20,Rescheduled,2.7,259.4
+R010,Omar Cole,W01,West,H-W01-035,Respiraline,2026-08-20,Sample Drop,19.1,478.4
+R003,Priya Chen,N03,North,H-N03-007,Cardiavex,2026-08-21,Completed,13.5,261.7
+R003,Priya Chen,N03,North,H-N03-018,Glucanorm,2026-08-21,No Show,2.7,261.7
+R006,Taylor Singh,S03,South,H-S03-003,Respiraline,2026-08-21,No Show,2.6,154.9
+R007,Chris Brooks,E01,East,H-E01-019,Cardiavex,2026-08-21,No Show,4.0,102.8
+R007,Chris Brooks,E01,East,H-E01-019,Respiraline,2026-08-21,Sample Drop,4.4,102.8
+R007,Chris Brooks,E01,East,H-E01-026,Cardiavex,2026-08-21,No Show,2.9,102.8
+R008,Riley Fischer,E02,East,H-E02-037,Glucanorm,2026-08-21,Discussion Completed,3.7,111.6
+R009,Nina Adeyemi,E03,East,H-E03-027,Respiraline,2026-08-21,Rescheduled,5.2,259.4
+R010,Omar Cole,W01,West,H-W01-008,Cardiavex,2026-08-21,Completed,13.1,478.4
+R002,Jordan Kapoor,N02,North,H-N02-011,Glucanorm,2026-08-22,Rescheduled,3.0,67.1
+R002,Jordan Kapoor,N02,North,H-N02-015,Cardiavex,2026-08-22,Rescheduled,2.0,67.1
+R005,Morgan Novak,S02,South,H-S02-022,Respiraline,2026-08-22,Discussion Completed,6.9,106.5
+R005,Morgan Novak,S02,South,H-S02-014,Glucanorm,2026-08-22,Discussion Completed,11.5,106.5
+R007,Chris Brooks,E01,East,H-E01-018,Glucanorm,2026-08-22,Rescheduled,1.9,102.8
+R008,Riley Fischer,E02,East,H-E02-038,Glucanorm,2026-08-22,Discussion Completed,12.7,111.6
+R009,Nina Adeyemi,E03,East,H-E03-016,Respiraline,2026-08-22,Rescheduled,3.9,259.4
+R009,Nina Adeyemi,E03,East,H-E03-028,Respiraline,2026-08-22,No Show,3.6,259.4
+R010,Omar Cole,W01,West,H-W01-023,Glucanorm,2026-08-22,Discussion Completed,15.9,478.4
+R001,Alex Reed,N01,North,H-N01-031,Cardiavex,2026-08-23,Sample Drop,7.5,51.2
+R003,Priya Chen,N03,North,H-N03-004,Cardiavex,2026-08-23,Rescheduled,5.1,261.7
+R004,Sam Ortiz,S01,South,H-S01-021,Respiraline,2026-08-23,No Show,2.2,66.8
+R005,Morgan Novak,S02,South,H-S02-026,Respiraline,2026-08-23,Discussion Completed,11.4,106.5
+R007,Chris Brooks,E01,East,H-E01-005,Cardiavex,2026-08-23,Rescheduled,3.9,102.8
+R007,Chris Brooks,E01,East,H-E01-023,Glucanorm,2026-08-23,No Show,3.2,102.8
+R008,Riley Fischer,E02,East,H-E02-004,Glucanorm,2026-08-23,No Show,1.2,111.6
+R009,Nina Adeyemi,E03,East,H-E03-016,Respiraline,2026-08-23,Completed,14.6,259.4
+R001,Alex Reed,N01,North,H-N01-031,Cardiavex,2026-08-24,Rescheduled,3.2,51.2
+R003,Priya Chen,N03,North,H-N03-030,Glucanorm,2026-08-24,No Show,5.0,261.7
+R003,Priya Chen,N03,North,H-N03-009,Respiraline,2026-08-24,Sample Drop,13.6,261.7
+R004,Sam Ortiz,S01,South,H-S01-020,Cardiavex,2026-08-24,Rescheduled,3.3,66.8
+R006,Taylor Singh,S03,South,H-S03-008,Glucanorm,2026-08-24,Rescheduled,1.4,154.9
+R007,Chris Brooks,E01,East,H-E01-009,Glucanorm,2026-08-24,No Show,1.5,102.8
+R009,Nina Adeyemi,E03,East,H-E03-001,Respiraline,2026-08-24,No Show,5.2,259.4
+R010,Omar Cole,W01,West,H-W01-026,Cardiavex,2026-08-24,Sample Drop,19.1,478.4
+R010,Omar Cole,W01,West,H-W01-034,Glucanorm,2026-08-24,No Show,5.8,478.4
+R001,Alex Reed,N01,North,H-N01-027,Glucanorm,2026-08-25,No Show,1.3,51.2
+R002,Jordan Kapoor,N02,North,H-N02-016,Respiraline,2026-08-25,Rescheduled,1.0,67.1
+R003,Priya Chen,N03,North,H-N03-035,Cardiavex,2026-08-25,Discussion Completed,11.5,261.7
+R003,Priya Chen,N03,North,H-N03-011,Respiraline,2026-08-25,Discussion Completed,13.2,261.7
+R004,Sam Ortiz,S01,South,H-S01-017,Glucanorm,2026-08-25,Completed,4.2,66.8
+R005,Morgan Novak,S02,South,H-S02-023,Respiraline,2026-08-25,Rescheduled,1.0,106.5
+R007,Chris Brooks,E01,East,H-E01-007,Cardiavex,2026-08-25,Rescheduled,1.7,102.8
+R008,Riley Fischer,E02,East,H-E02-005,Glucanorm,2026-08-25,Rescheduled,2.2,111.6
+R008,Riley Fischer,E02,East,H-E02-022,Cardiavex,2026-08-25,Completed,8.9,111.6
+R009,Nina Adeyemi,E03,East,H-E03-009,Cardiavex,2026-08-25,Rescheduled,4.1,259.4
+R010,Omar Cole,W01,West,H-W01-004,Glucanorm,2026-08-25,No Show,2.7,478.4
+R005,Morgan Novak,S02,South,H-S02-010,Respiraline,2026-08-26,Sample Drop,7.0,106.5
+R006,Taylor Singh,S03,South,H-S03-004,Respiraline,2026-08-26,Discussion Completed,11.4,154.9
+R006,Taylor Singh,S03,South,H-S03-022,Respiraline,2026-08-26,No Show,2.1,154.9
+R006,Taylor Singh,S03,South,H-S03-010,Glucanorm,2026-08-26,Sample Drop,18.8,154.9
+R007,Chris Brooks,E01,East,H-E01-026,Glucanorm,2026-08-26,Rescheduled,1.4,102.8
+R008,Riley Fischer,E02,East,H-E02-018,Respiraline,2026-08-26,Rescheduled,1.6,111.6
+R008,Riley Fischer,E02,East,H-E02-015,Glucanorm,2026-08-26,Rescheduled,1.2,111.6
+R008,Riley Fischer,E02,East,H-E02-015,Respiraline,2026-08-26,Rescheduled,2.4,111.6
+R009,Nina Adeyemi,E03,East,H-E03-021,Respiraline,2026-08-26,Discussion Completed,8.9,259.4
+R001,Alex Reed,N01,North,H-N01-003,Respiraline,2026-08-27,Rescheduled,2.6,51.2
+R001,Alex Reed,N01,North,H-N01-028,Cardiavex,2026-08-27,Rescheduled,3.3,51.2
+R003,Priya Chen,N03,North,H-N03-022,Respiraline,2026-08-27,Completed,14.8,261.7
+R004,Sam Ortiz,S01,South,H-S01-022,Cardiavex,2026-08-27,Rescheduled,2.9,66.8
+R004,Sam Ortiz,S01,South,H-S01-016,Cardiavex,2026-08-27,Rescheduled,0.9,66.8
+R004,Sam Ortiz,S01,South,H-S01-011,Respiraline,2026-08-27,No Show,2.8,66.8
+R005,Morgan Novak,S02,South,H-S02-011,Cardiavex,2026-08-27,Rescheduled,2.0,106.5
+R006,Taylor Singh,S03,South,H-S03-004,Respiraline,2026-08-27,Discussion Completed,9.6,154.9
+R008,Riley Fischer,E02,East,H-E02-006,Cardiavex,2026-08-27,No Show,1.0,111.6
+R010,Omar Cole,W01,West,H-W01-035,Glucanorm,2026-08-27,Discussion Completed,8.5,478.4
+R010,Omar Cole,W01,West,H-W01-029,Cardiavex,2026-08-27,Discussion Completed,7.2,478.4
+R010,Omar Cole,W01,West,H-W01-011,Cardiavex,2026-08-27,Discussion Completed,13.5,478.4
